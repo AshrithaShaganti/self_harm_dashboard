@@ -1,0 +1,565 @@
+post_id,date,text,sentiment_score,emotion,distress_score,risk_level,clean_text
+P02954,2025-03-26,Very fun and friends.,0.5241261376135526,Happiness,0.2729972134948595,Low Risk,very fun and friends
+P08292,2025-03-26,Feeling okay today.,0.5369597519144388,Happiness,0.1265271348042671,Low Risk,feeling okay today
+P05145,2025-03-26,Very movie and sunny.,0.3830866206587976,Surprise,0.2303643033474548,Low Risk,very movie and sunny
+P01588,2025-03-26,I am stressed and dark lately.,-0.0704217685898795,Disgust,0.6904980880297764,Medium Risk,i am stressed and dark lately
+P04032,2025-03-26,Very happy and sunny.,0.9082262632775204,Neutral,0.0103394655360293,Low Risk,very happy and sunny
+P02314,2025-03-26,Today was really stressed.,-0.0126449947151093,Disgust,0.5630618939725227,Medium Risk,today was really stressed
+P01337,2025-03-26,I am heavy and lonely lately.,0.074875108191793,Sadness,0.4355981843423616,Medium Risk,i am heavy and lonely lately
+P00725,2025-03-26,Feeling dinner today.,0.4540694362088933,Neutral,0.0756158098910126,Low Risk,feeling dinner today
+P09272,2025-03-26,Today was really sad.,0.1712511444258037,Anger,0.5782034490916681,Medium Risk,today was really sad
+P04085,2025-03-26,I am stressed and anxious lately.,-0.2319230922549807,Anger,0.6765561021357729,Medium Risk,i am stressed and anxious lately
+P02322,2025-03-26,Feeling fun today.,0.2394189228662172,Happiness,0.195881612743142,Low Risk,feeling fun today
+P09726,2025-03-26,Very good and dinner.,0.4666300907859442,Surprise,0.1737614288476135,Low Risk,very good and dinner
+P03019,2025-03-26,Today was really lonely.,-0.0289575229991165,Anger,0.4257432315128316,Medium Risk,today was really lonely
+P04148,2025-03-26,Today was really anxious.,-0.0997124971004208,Sadness,0.6807399494587874,Medium Risk,today was really anxious
+P02677,2025-03-26,Very sunny and working.,0.8423730408868535,Surprise,0.0934167207705473,Low Risk,very sunny and working
+P01176,2025-03-26,Very friends and movie.,0.259710744863543,Neutral,0.1864726364510228,Low Risk,very friends and movie
+P04471,2025-03-26,Very working and movie.,0.7676224508612783,Surprise,0.3784694819185381,Low Risk,very working and movie
+P00923,2025-03-26,Today was really tired.,-0.0368209981201004,Sadness,0.5119723469137701,Medium Risk,today was really tired
+P00347,2025-03-26,Today was really dark.,-0.4772316743561237,Disgust,0.6902533790841332,Medium Risk,today was really dark
+P04567,2025-03-26,Very dinner and fun.,0.5635228470558911,Happiness,0.1202482239422568,Low Risk,very dinner and fun
+P08086,2025-03-26,Feeling friends today.,0.9455632386828126,Happiness,0.350697720518268,Low Risk,feeling friends today
+P02483,2025-03-26,Very okay and movie.,0.4855199097398039,Neutral,0.157487667861215,Low Risk,very okay and movie
+P04721,2025-03-26,Very movie and okay.,0.2831130835314512,Neutral,0.0371646645318813,Low Risk,very movie and okay
+P05328,2025-03-26,Very happy and good.,0.8223139806665234,Surprise,0.0079194920472629,Low Risk,very happy and good
+P03419,2025-03-26,Very friends and working.,0.3678612664724491,Surprise,0.2807814135881303,Low Risk,very friends and working
+P07044,2025-03-27,Everything is worthless and I feel hurt myself.,-0.7417196004546649,Fear,0.8630681769083409,High Risk,everything is worthless and i feel hurt myself
+P01179,2025-03-27,"I can't take this end it all anymore, it's no way out and I want to pain.",-0.6167363418891865,Fear,0.7909052520946089,High Risk,i cant take this end it all anymore its no way out and i want to pain
+P07148,2025-03-27,I am feeling so suffering. I just want to suffering.,-0.8813618608081237,Sadness,0.871232505389891,High Risk,i am feeling so suffering i just want to suffering
+P01665,2025-03-27,"I can't take this hopeless anymore, it's worthless and I want to pain.",-0.7003207064320986,Fear,0.703984361037574,High Risk,i cant take this hopeless anymore its worthless and i want to pain
+P02815,2025-03-27,Very happy and movie.,0.5944280972321638,Surprise,0.0062250185034864,Low Risk,very happy and movie
+P09577,2025-03-27,Everything is pointless and I feel worthless.,-0.6601823230295832,Sadness,0.922949101628344,High Risk,everything is pointless and i feel worthless
+P03698,2025-03-27,Feeling happy today.,0.4505289142897432,Surprise,0.2067202378762496,Low Risk,feeling happy today
+P02632,2025-03-27,Very movie and friends.,0.9406308395956546,Happiness,0.2048679823735548,Low Risk,very movie and friends
+P07649,2025-03-27,I am feeling so pointless. I just want to pointless.,-0.7942786166597946,Sadness,0.8917944756635898,High Risk,i am feeling so pointless i just want to pointless
+P09715,2025-03-27,Very sunny and movie.,0.7893863566855945,Surprise,0.10009212938113,Low Risk,very sunny and movie
+P07828,2025-03-27,Feeling movie today.,0.7419428855146621,Neutral,0.3211061150145216,Low Risk,feeling movie today
+P09167,2025-03-27,Feeling working today.,0.642153963062992,Happiness,0.0232285182867442,Low Risk,feeling working today
+P05500,2025-03-27,"I can't take this suffering anymore, it's no way out and I want to hurt myself.",-0.7568956557400787,Sadness,0.7714557116798686,High Risk,i cant take this suffering anymore its no way out and i want to hurt myself
+P03752,2025-03-27,Very good and fun.,0.7292516545387244,Happiness,0.1781734701144121,Low Risk,very good and fun
+P09688,2025-03-27,I am struggling and heavy lately.,-0.2471404871408918,Sadness,0.6920062338378968,Medium Risk,i am struggling and heavy lately
+P03461,2025-03-27,I am heavy and anxious lately.,-0.0963286775685592,Fear,0.6994920791145964,Medium Risk,i am heavy and anxious lately
+P09205,2025-03-27,Today was really overwhelmed.,-0.4173958734702458,Disgust,0.5041869806257494,Medium Risk,today was really overwhelmed
+P08752,2025-03-28,I am sad and overwhelmed lately.,-0.3173102521384258,Sadness,0.4692057530384345,Medium Risk,i am sad and overwhelmed lately
+P07378,2025-03-28,Very happy and dinner.,0.5739139689763821,Happiness,0.2166804425994473,Low Risk,very happy and dinner
+P08625,2025-03-28,Very sunny and going out.,0.226951869741923,Neutral,0.25363987421032,Low Risk,very sunny and going out
+P02384,2025-03-28,I am struggling and lonely lately.,-0.2991931875120442,Anger,0.4842129227393782,Medium Risk,i am struggling and lonely lately
+P04425,2025-03-28,I am overwhelmed and sad lately.,-0.2032994740815098,Fear,0.4888190289124585,Medium Risk,i am overwhelmed and sad lately
+P00978,2025-03-28,I am stressed and tired lately.,-0.0314839735866845,Anger,0.6813895694301682,Medium Risk,i am stressed and tired lately
+P08290,2025-03-28,I am overwhelmed and heavy lately.,-0.3050518825951404,Anger,0.4726362281887112,Medium Risk,i am overwhelmed and heavy lately
+P09593,2025-03-28,Very sunny and happy.,0.2430343549821872,Neutral,0.1546271875852663,Low Risk,very sunny and happy
+P03947,2025-03-28,Feeling going out today.,0.6930959449076659,Happiness,0.2895981536578952,Low Risk,feeling going out today
+P00054,2025-03-28,Feeling good today.,0.9203344457306644,Neutral,0.0754828433365517,Low Risk,feeling good today
+P03280,2025-03-28,Feeling sunny today.,0.8072416080536866,Neutral,0.1907180895601533,Low Risk,feeling sunny today
+P01614,2025-03-28,Everything is hopeless and I feel no way out.,-0.8288872376105477,Fear,0.8256787671812257,High Risk,everything is hopeless and i feel no way out
+P08876,2025-03-29,Very sunny and okay.,0.2511544509625318,Happiness,0.2044629616953113,Low Risk,very sunny and okay
+P09826,2025-03-29,Very going out and movie.,0.3070394703994581,Surprise,0.2142566291900916,Low Risk,very going out and movie
+P03274,2025-03-29,Today was really struggling.,-0.4872124128732263,Fear,0.491801831562683,Medium Risk,today was really struggling
+P00454,2025-03-29,Very fun and okay.,0.4780572193911857,Neutral,0.3708711277917811,Low Risk,very fun and okay
+P02503,2025-03-29,Everything is worthless and I feel give up.,-0.97938609300047,Fear,0.9174730815508252,High Risk,everything is worthless and i feel give up
+P07349,2025-03-29,Very movie and fun.,0.7606835822473319,Happiness,0.2543317350499388,Low Risk,very movie and fun
+P07437,2025-03-29,Very going out and okay.,0.759984096141513,Happiness,0.2271592915800699,Low Risk,very going out and okay
+P07903,2025-03-29,"I can't take this give up anymore, it's depressed and I want to worthless.",-0.977144756964026,Fear,0.8168082523842647,High Risk,i cant take this give up anymore its depressed and i want to worthless
+P03451,2025-03-29,I am dark and tired lately.,-0.1042881159776847,Disgust,0.4641885192522386,Medium Risk,i am dark and tired lately
+P04290,2025-03-29,Very going out and working.,0.983289735795842,Neutral,0.0267895064494296,Low Risk,very going out and working
+P07372,2025-03-29,"I can't take this pointless anymore, it's hurt myself and I want to depressed.",-0.9386612353987036,Fear,0.8021641855951263,High Risk,i cant take this pointless anymore its hurt myself and i want to depressed
+P03560,2025-03-29,"I can't take this hurt myself anymore, it's suffering and I want to no way out.",-0.5914575265401752,Sadness,0.8778316897982597,High Risk,i cant take this hurt myself anymore its suffering and i want to no way out
+P09632,2025-03-30,Very fun and movie.,0.4338355194224024,Neutral,0.1946320896589085,Low Risk,very fun and movie
+P01907,2025-03-30,Very okay and friends.,0.7033174671762554,Neutral,0.0287626869265782,Low Risk,very okay and friends
+P06300,2025-03-30,Very working and happy.,0.7533627343002769,Happiness,0.0639474620948471,Low Risk,very working and happy
+P08196,2025-03-30,Everything is end it all and I feel hopeless.,-0.6079146565916052,Sadness,0.7740497550467571,High Risk,everything is end it all and i feel hopeless
+P00781,2025-03-30,Very dinner and happy.,0.5161647410479762,Surprise,0.386821072570414,Low Risk,very dinner and happy
+P09364,2025-03-30,Very going out and dinner.,0.8742182075403775,Neutral,0.079257952438727,Low Risk,very going out and dinner
+P02025,2025-03-30,"I can't take this end it all anymore, it's pointless and I want to pain.",-0.9477185676228292,Fear,0.8867648188639341,High Risk,i cant take this end it all anymore its pointless and i want to pain
+P05296,2025-03-30,Very fun and dinner.,0.7460575362454114,Neutral,0.1870632496752164,Low Risk,very fun and dinner
+P00014,2025-03-30,"I can't take this suffering anymore, it's pain and I want to give up.",-0.5788576127025007,Fear,0.9818496824692567,High Risk,i cant take this suffering anymore its pain and i want to give up
+P09143,2025-03-30,Very working and dinner.,0.307079031664236,Happiness,0.0020965347237082,Low Risk,very working and dinner
+P04406,2025-03-30,Very going out and friends.,0.3263570979374145,Neutral,0.0922538582645653,Low Risk,very going out and friends
+P00967,2025-03-30,Very good and movie.,0.7597116556976975,Surprise,0.2742802171734576,Low Risk,very good and movie
+P00706,2025-03-31,Everything is depressed and I feel suffering.,-0.631065240719235,Sadness,0.8898718992035303,High Risk,everything is depressed and i feel suffering
+P02942,2025-03-31,I am struggling and sad lately.,0.1144825175230855,Anger,0.6330304814050218,Medium Risk,i am struggling and sad lately
+P09074,2025-03-31,Very sunny and dinner.,0.3841061958599585,Neutral,0.2658214655825626,Low Risk,very sunny and dinner
+P06734,2025-03-31,Very fun and good.,0.2686423697808193,Surprise,0.182179857856056,Low Risk,very fun and good
+P02145,2025-03-31,I am feeling so worthless. I just want to worthless.,-0.5229341792144637,Sadness,0.90857752022663,High Risk,i am feeling so worthless i just want to worthless
+P09971,2025-03-31,Very happy and friends.,0.8118511347081963,Neutral,0.2507616212810223,Low Risk,very happy and friends
+P07965,2025-03-31,I am stressed and lonely lately.,0.0796429089118224,Anger,0.5866595757025208,Medium Risk,i am stressed and lonely lately
+P04221,2025-03-31,"I can't take this suffering anymore, it's give up and I want to hopeless.",-0.6632417362639456,Sadness,0.7467178035770037,High Risk,i cant take this suffering anymore its give up and i want to hopeless
+P00869,2025-03-31,"I can't take this no way out anymore, it's hurt myself and I want to suffering.",-0.7705297417015898,Sadness,0.7646033144147657,High Risk,i cant take this no way out anymore its hurt myself and i want to suffering
+P04352,2025-03-31,I am lonely and sad lately.,-0.4705745184667055,Fear,0.6949486869734225,Medium Risk,i am lonely and sad lately
+P00913,2025-04-01,I am struggling and overwhelmed lately.,0.054090741813959,Anger,0.5531685386228014,Medium Risk,i am struggling and overwhelmed lately
+P01700,2025-04-01,Everything is hurt myself and I feel end it all.,-0.9363875565314946,Sadness,0.9107196163241796,High Risk,everything is hurt myself and i feel end it all
+P04421,2025-04-01,I am anxious and dark lately.,-0.3276139932134499,Disgust,0.5385319912933875,Medium Risk,i am anxious and dark lately
+P06510,2025-04-02,I am overwhelmed and struggling lately.,-0.0822051764027436,Disgust,0.4977453637317049,Medium Risk,i am overwhelmed and struggling lately
+P00007,2025-04-02,Very happy and okay.,0.3597390257266878,Neutral,0.3932923543227153,Low Risk,very happy and okay
+P04606,2025-04-02,Very okay and good.,0.7861375760005349,Happiness,0.3583467756631472,Low Risk,very okay and good
+P02512,2025-04-02,I am anxious and overwhelmed lately.,0.0832920135201302,Disgust,0.556171163289752,Medium Risk,i am anxious and overwhelmed lately
+P06108,2025-04-02,Very dinner and friends.,0.5511439548663715,Neutral,0.1498928053812485,Low Risk,very dinner and friends
+P02545,2025-04-02,Very dinner and okay.,0.3352831203365212,Neutral,0.2624444601912669,Low Risk,very dinner and okay
+P06948,2025-04-02,Very movie and working.,0.9240712884158804,Happiness,0.1639718241834429,Low Risk,very movie and working
+P09470,2025-04-02,Very movie and good.,0.9574699089099818,Neutral,0.1444810311129984,Low Risk,very movie and good
+P06094,2025-04-02,Today was really heavy.,-0.2393345681262225,Disgust,0.5993978240617296,Medium Risk,today was really heavy
+P00471,2025-04-03,Very okay and fun.,0.7330455086680319,Surprise,0.0272689237541974,Low Risk,very okay and fun
+P05390,2025-04-03,I am sad and anxious lately.,-0.2957437472933923,Anger,0.6600351333815038,Medium Risk,i am sad and anxious lately
+P02394,2025-04-03,"I can't take this pain anymore, it's hurt myself and I want to end it all.",-0.755980887859125,Fear,0.9632467725194463,High Risk,i cant take this pain anymore its hurt myself and i want to end it all
+P09653,2025-04-03,Very going out and sunny.,0.6356059771216583,Happiness,0.1955033640146274,Low Risk,very going out and sunny
+P06295,2025-04-03,I am tired and struggling lately.,-0.2572384461483974,Anger,0.6212120900618758,Medium Risk,i am tired and struggling lately
+P04039,2025-04-03,Very dinner and sunny.,0.5522873579409562,Happiness,0.0239917088766065,Low Risk,very dinner and sunny
+P03472,2025-04-03,Everything is hopeless and I feel pain.,-0.6305862813244103,Fear,0.8711048284026284,High Risk,everything is hopeless and i feel pain
+P01108,2025-04-04,Very okay and working.,0.3555581155453509,Happiness,0.332945415864398,Low Risk,very okay and working
+P04833,2025-04-04,Very good and sunny.,0.8269388744156831,Happiness,0.1945280908996106,Low Risk,very good and sunny
+P09303,2025-04-04,Everything is give up and I feel pain.,-0.5674147632568347,Fear,0.9537987566724376,High Risk,everything is give up and i feel pain
+P06798,2025-04-04,"I can't take this give up anymore, it's hurt myself and I want to depressed.",-0.6784532208905013,Sadness,0.8700227045358021,High Risk,i cant take this give up anymore its hurt myself and i want to depressed
+P00502,2025-04-04,Very working and going out.,0.9932707270962192,Neutral,0.3769261558692771,Low Risk,very working and going out
+P01979,2025-04-04,I am lonely and dark lately.,0.0513737882350278,Disgust,0.6413123242413101,Medium Risk,i am lonely and dark lately
+P05690,2025-04-04,Very okay and happy.,0.2935563771944643,Surprise,0.1272025677577601,Low Risk,very okay and happy
+P02130,2025-04-04,"I can't take this no way out anymore, it's pain and I want to pointless.",-0.6892677886716077,Sadness,0.7897038038828038,High Risk,i cant take this no way out anymore its pain and i want to pointless
+P09217,2025-04-05,Very okay and dinner.,0.2394544238472941,Happiness,0.1511392170569047,Low Risk,very okay and dinner
+P02727,2025-04-05,I am stressed and overwhelmed lately.,-0.320458733754992,Sadness,0.6959146514886676,Medium Risk,i am stressed and overwhelmed lately
+P01170,2025-04-05,I am dark and stressed lately.,-0.291347044632624,Sadness,0.5624123262722315,Medium Risk,i am dark and stressed lately
+P09445,2025-04-05,I am anxious and lonely lately.,-0.4370959806855627,Disgust,0.6176770149738536,Medium Risk,i am anxious and lonely lately
+P08830,2025-04-05,I am tired and anxious lately.,-0.0728109801842528,Fear,0.5844024703838933,Medium Risk,i am tired and anxious lately
+P08925,2025-04-05,Very working and sunny.,0.8773028198019661,Happiness,0.2541281562742386,Low Risk,very working and sunny
+P01746,2025-04-06,I am tired and dark lately.,0.0788074930213533,Fear,0.5526655765522737,Medium Risk,i am tired and dark lately
+P07502,2025-04-06,Very happy and fun.,0.6809133334902758,Neutral,0.1513805249935937,Low Risk,very happy and fun
+P04699,2025-04-06,I am feeling so no way out. I just want to no way out.,-0.5485435540166155,Fear,0.7598979059946934,High Risk,i am feeling so no way out i just want to no way out
+P00324,2025-04-06,Very going out and happy.,0.2008960891840876,Surprise,0.3328536711830968,Low Risk,very going out and happy
+P05494,2025-04-06,"I can't take this suffering anymore, it's hurt myself and I want to end it all.",-0.6894386985440949,Sadness,0.7606247388220612,High Risk,i cant take this suffering anymore its hurt myself and i want to end it all
+P00203,2025-04-06,Very good and friends.,0.3613018560381956,Surprise,0.3300530706771189,Low Risk,very good and friends
+P05706,2025-04-06,Very sunny and fun.,0.2501377077615727,Surprise,0.1464162827212261,Low Risk,very sunny and fun
+P05773,2025-04-06,I am anxious and sad lately.,0.0282180389904546,Sadness,0.6384920905527888,Medium Risk,i am anxious and sad lately
+P05777,2025-04-06,I am dark and overwhelmed lately.,0.1387430942074335,Fear,0.5807848830804072,Medium Risk,i am dark and overwhelmed lately
+P03521,2025-04-06,Very happy and going out.,0.5566797073589742,Surprise,0.3343696292111254,Low Risk,very happy and going out
+P02233,2025-04-06,I am lonely and struggling lately.,-0.0504532540981118,Anger,0.6381686965583551,Medium Risk,i am lonely and struggling lately
+P04260,2025-04-07,"I can't take this worthless anymore, it's pain and I want to no way out.",-0.5537442904529242,Fear,0.9943115880043636,High Risk,i cant take this worthless anymore its pain and i want to no way out
+P04470,2025-04-07,Very working and okay.,0.80542384558283,Happiness,0.0574410902618845,Low Risk,very working and okay
+P05326,2025-04-07,Everything is end it all and I feel give up.,-0.6425647946613073,Fear,0.8399472881010748,High Risk,everything is end it all and i feel give up
+P05404,2025-04-07,Everything is suffering and I feel worthless.,-0.9877928425888888,Fear,0.7179215217193783,High Risk,everything is suffering and i feel worthless
+P01140,2025-04-07,Very friends and sunny.,0.2109459318085449,Happiness,0.1034366364539136,Low Risk,very friends and sunny
+P09969,2025-04-07,Very going out and good.,0.9146140922417724,Happiness,0.3176643903882928,Low Risk,very going out and good
+P09152,2025-04-07,Very sunny and good.,0.90819659440845,Surprise,0.102155734803257,Low Risk,very sunny and good
+P09281,2025-04-07,I am struggling and tired lately.,-0.0491024383855197,Anger,0.6972538822498038,Medium Risk,i am struggling and tired lately
+P08454,2025-04-07,"I can't take this pain anymore, it's hurt myself and I want to no way out.",-0.7815635420098478,Sadness,0.9293596089572428,High Risk,i cant take this pain anymore its hurt myself and i want to no way out
+P05408,2025-04-08,"I can't take this suffering anymore, it's end it all and I want to depressed.",-0.5122547508344721,Sadness,0.7096880950202473,High Risk,i cant take this suffering anymore its end it all and i want to depressed
+P06481,2025-04-08,"I can't take this pain anymore, it's hopeless and I want to no way out.",-0.5915290006649896,Sadness,0.9867098676756616,High Risk,i cant take this pain anymore its hopeless and i want to no way out
+P04416,2025-04-08,Very dinner and good.,0.2298813078526502,Surprise,0.2370655800533979,Low Risk,very dinner and good
+P07529,2025-04-08,Very fun and working.,0.816272991562143,Surprise,0.3295423201969832,Low Risk,very fun and working
+P02028,2025-04-08,Very fun and going out.,0.2514021783636888,Happiness,0.0642853396763942,Low Risk,very fun and going out
+P09411,2025-04-08,"I can't take this worthless anymore, it's pointless and I want to end it all.",-0.6583235147673474,Sadness,0.9107560152737308,High Risk,i cant take this worthless anymore its pointless and i want to end it all
+P01586,2025-04-08,I am feeling so give up. I just want to give up.,-0.583482868029465,Sadness,0.9745869821137824,High Risk,i am feeling so give up i just want to give up
+P09658,2025-04-08,Very friends and okay.,0.2987274799866283,Neutral,0.3624789937662643,Low Risk,very friends and okay
+P00619,2025-04-08,I am feeling so hurt myself. I just want to hurt myself.,-0.8683421081234,Sadness,0.7037212108831944,High Risk,i am feeling so hurt myself i just want to hurt myself
+P01653,2025-04-08,I am sad and tired lately.,-0.3118001609670798,Anger,0.6040752064991122,Medium Risk,i am sad and tired lately
+P04680,2025-04-09,I am feeling so depressed. I just want to depressed.,-0.5484413585639318,Fear,0.923489559538268,High Risk,i am feeling so depressed i just want to depressed
+P01567,2025-04-09,I am feeling so pain. I just want to pain.,-0.7061007753141576,Fear,0.7374610230717767,High Risk,i am feeling so pain i just want to pain
+P08501,2025-04-09,I am heavy and overwhelmed lately.,-0.2435720504183733,Disgust,0.6821189297722515,Medium Risk,i am heavy and overwhelmed lately
+P02824,2025-04-09,Very friends and happy.,0.6428247082857467,Neutral,0.3312238170931505,Low Risk,very friends and happy
+P06802,2025-04-09,I am overwhelmed and tired lately.,-0.3201209455965988,Disgust,0.6836590301829556,Medium Risk,i am overwhelmed and tired lately
+P08863,2025-04-09,"I can't take this give up anymore, it's pain and I want to hurt myself.",-0.7717743529013841,Fear,0.7191126912514939,High Risk,i cant take this give up anymore its pain and i want to hurt myself
+P03737,2025-04-09,I am dark and anxious lately.,0.0449820749958822,Anger,0.630728101958945,Medium Risk,i am dark and anxious lately
+P01989,2025-04-09,I am lonely and heavy lately.,-0.0410594115199778,Disgust,0.6887095949363584,Medium Risk,i am lonely and heavy lately
+P06195,2025-04-09,Very friends and going out.,0.2981927571671863,Happiness,0.2489286183866725,Low Risk,very friends and going out
+P02203,2025-04-09,I am overwhelmed and lonely lately.,-0.4442882968395703,Fear,0.4942329457268112,Medium Risk,i am overwhelmed and lonely lately
+P06235,2025-04-09,I am stressed and struggling lately.,0.0964665126329318,Anger,0.5157460866622078,Medium Risk,i am stressed and struggling lately
+P06554,2025-04-09,Everything is end it all and I feel pain.,-0.7472791716410976,Fear,0.8637449264656937,High Risk,everything is end it all and i feel pain
+P05468,2025-04-10,Very friends and fun.,0.7026311956682572,Happiness,0.3778059693152837,Low Risk,very friends and fun
+P06880,2025-04-10,I am tired and overwhelmed lately.,-0.1192974586716706,Disgust,0.4841513525132472,Medium Risk,i am tired and overwhelmed lately
+P03741,2025-04-10,"I can't take this hopeless anymore, it's depressed and I want to no way out.",-0.873152852455744,Sadness,0.7515911205530629,High Risk,i cant take this hopeless anymore its depressed and i want to no way out
+P00640,2025-04-10,Everything is hurt myself and I feel hopeless.,-0.8904655954490711,Sadness,0.9531773837835172,High Risk,everything is hurt myself and i feel hopeless
+P09863,2025-04-10,I am overwhelmed and anxious lately.,0.1216779154066676,Anger,0.5440739119196394,Medium Risk,i am overwhelmed and anxious lately
+P04031,2025-04-11,Everything is end it all and I feel no way out.,-0.9724760185028928,Sadness,0.7098506287251632,High Risk,everything is end it all and i feel no way out
+P00405,2025-04-11,Everything is pointless and I feel suffering.,-0.5345256522465112,Fear,0.9756033390980512,High Risk,everything is pointless and i feel suffering
+P07126,2025-04-11,Very working and good.,0.6006650130292817,Neutral,0.3759423835575455,Low Risk,very working and good
+P04102,2025-04-11,Very okay and going out.,0.7789971083262286,Neutral,0.1099485712368612,Low Risk,very okay and going out
+P01072,2025-04-11,"I can't take this worthless anymore, it's no way out and I want to end it all.",-0.7911665020915026,Sadness,0.8536901040661242,High Risk,i cant take this worthless anymore its no way out and i want to end it all
+P07063,2025-04-12,Very working and fun.,0.400942569387074,Neutral,0.3776591201697918,Low Risk,very working and fun
+P00117,2025-04-12,Very friends and dinner.,0.8316945142356431,Happiness,0.372371642274917,Low Risk,very friends and dinner
+P08047,2025-04-12,Very movie and happy.,0.6675978111829337,Happiness,0.148694190055421,Low Risk,very movie and happy
+P02710,2025-04-12,Very movie and dinner.,0.727503142881172,Surprise,0.2681278535926171,Low Risk,very movie and dinner
+P08852,2025-04-12,I am feeling so hopeless. I just want to hopeless.,-0.5728057208702548,Fear,0.7838365465960393,High Risk,i am feeling so hopeless i just want to hopeless
+P02428,2025-04-13,I am tired and heavy lately.,-0.3011270955407969,Sadness,0.4458885611817231,Medium Risk,i am tired and heavy lately
+P00578,2025-04-13,I am heavy and struggling lately.,-0.3211546587410767,Sadness,0.5353718032542965,Medium Risk,i am heavy and struggling lately
+P09207,2025-04-13,I am overwhelmed and dark lately.,-0.1092161818529218,Anger,0.4274135431021812,Medium Risk,i am overwhelmed and dark lately
+P02468,2025-04-13,Very good and happy.,0.6481375164538867,Neutral,0.0379536920590298,Low Risk,very good and happy
+P09837,2025-04-13,"I can't take this suffering anymore, it's pointless and I want to give up.",-0.6907561153637145,Fear,0.9400955705797752,High Risk,i cant take this suffering anymore its pointless and i want to give up
+P02758,2025-04-13,I am tired and lonely lately.,-0.4793206219719547,Anger,0.491390749688073,Medium Risk,i am tired and lonely lately
+P06408,2025-04-13,I am heavy and sad lately.,-0.3898492773218254,Fear,0.5498386402518742,Medium Risk,i am heavy and sad lately
+P01376,2025-04-14,I am sad and heavy lately.,0.0557545934162958,Sadness,0.580415221206569,Medium Risk,i am sad and heavy lately
+P09415,2025-04-14,Very going out and fun.,0.7833449852003878,Surprise,0.08614935043641,Low Risk,very going out and fun
+P03643,2025-04-14,Very movie and going out.,0.8593623292498036,Happiness,0.3097042273729805,Low Risk,very movie and going out
+P00135,2025-04-15,Very good and working.,0.507361465103376,Neutral,0.0181785521365831,Low Risk,very good and working
+P06120,2025-04-15,"I can't take this suffering anymore, it's end it all and I want to hopeless.",-0.7121094925872998,Sadness,0.9142368405483224,High Risk,i cant take this suffering anymore its end it all and i want to hopeless
+P03759,2025-04-15,Very fun and sunny.,0.9730029657920718,Neutral,0.3784790105920127,Low Risk,very fun and sunny
+P04995,2025-04-15,"I can't take this pointless anymore, it's hurt myself and I want to hopeless.",-0.6714771213984911,Sadness,0.7560305248810026,High Risk,i cant take this pointless anymore its hurt myself and i want to hopeless
+P02392,2025-04-16,"I can't take this hopeless anymore, it's no way out and I want to depressed.",-0.7514553453246015,Fear,0.9583696681781158,High Risk,i cant take this hopeless anymore its no way out and i want to depressed
+P09261,2025-04-16,I am tired and stressed lately.,-0.4338549921672532,Sadness,0.6406221330024373,Medium Risk,i am tired and stressed lately
+P08415,2025-04-16,I am heavy and tired lately.,-0.2308312980814273,Sadness,0.5387467493952119,Medium Risk,i am heavy and tired lately
+P06987,2025-04-16,"I can't take this no way out anymore, it's hurt myself and I want to pain.",-0.8237208722644958,Sadness,0.8603384484225424,High Risk,i cant take this no way out anymore its hurt myself and i want to pain
+P00019,2025-04-16,Everything is pain and I feel give up.,-0.5065565316997414,Fear,0.8184644554526709,High Risk,everything is pain and i feel give up
+P06531,2025-04-17,Everything is give up and I feel depressed.,-0.8154320460179325,Sadness,0.7968636293965418,High Risk,everything is give up and i feel depressed
+P00083,2025-04-17,I am lonely and anxious lately.,0.1756762812735388,Fear,0.4256042394981304,Medium Risk,i am lonely and anxious lately
+P04670,2025-04-17,Very happy and working.,0.2533324410206586,Surprise,0.3530422494915366,Low Risk,very happy and working
+P09021,2025-04-17,Everything is no way out and I feel suffering.,-0.8417987087060415,Fear,0.7223206173185471,High Risk,everything is no way out and i feel suffering
+P03914,2025-04-17,I am struggling and dark lately.,-0.2718146693618315,Disgust,0.5326182131182668,Medium Risk,i am struggling and dark lately
+P06282,2025-04-17,"I can't take this depressed anymore, it's pointless and I want to suffering.",-0.5772005540531691,Sadness,0.8513845330298386,High Risk,i cant take this depressed anymore its pointless and i want to suffering
+P02848,2025-04-17,Everything is hopeless and I feel suffering.,-0.5804754159603214,Fear,0.9097082242126284,High Risk,everything is hopeless and i feel suffering
+P00092,2025-04-18,"I can't take this worthless anymore, it's no way out and I want to depressed.",-0.7169813947529619,Sadness,0.9273538331393107,High Risk,i cant take this worthless anymore its no way out and i want to depressed
+P04600,2025-04-18,I am struggling and stressed lately.,-0.1333743161570289,Fear,0.5149115051254786,Medium Risk,i am struggling and stressed lately
+P07975,2025-04-18,I am struggling and anxious lately.,-0.2356932107952524,Anger,0.5664703281359781,Medium Risk,i am struggling and anxious lately
+P00289,2025-04-18,I am dark and lonely lately.,0.0073367400701329,Disgust,0.5717283278300397,Medium Risk,i am dark and lonely lately
+P00505,2025-04-18,"I can't take this pointless anymore, it's hopeless and I want to pain.",-0.5160699825774848,Sadness,0.9347454773691812,High Risk,i cant take this pointless anymore its hopeless and i want to pain
+P07528,2025-04-19,Everything is give up and I feel pointless.,-0.8796227925910964,Sadness,0.7418700451924964,High Risk,everything is give up and i feel pointless
+P08973,2025-04-19,"I can't take this depressed anymore, it's no way out and I want to suffering.",-0.7441365262400059,Sadness,0.7031084641233337,High Risk,i cant take this depressed anymore its no way out and i want to suffering
+P00971,2025-04-19,"I can't take this no way out anymore, it's pain and I want to give up.",-0.9841281173135056,Fear,0.7692383961779595,High Risk,i cant take this no way out anymore its pain and i want to give up
+P09763,2025-04-19,"I can't take this suffering anymore, it's depressed and I want to hurt myself.",-0.7898087291861196,Sadness,0.7282132538503316,High Risk,i cant take this suffering anymore its depressed and i want to hurt myself
+P05470,2025-04-19,I am anxious and heavy lately.,-0.0474720356979154,Sadness,0.5982251664739895,Medium Risk,i am anxious and heavy lately
+P07183,2025-04-20,Very working and friends.,0.6801221184588917,Happiness,0.3324015169511398,Low Risk,very working and friends
+P03926,2025-04-20,Everything is no way out and I feel pointless.,-0.6687515634078608,Fear,0.8358359910086026,High Risk,everything is no way out and i feel pointless
+P08482,2025-04-20,"I can't take this end it all anymore, it's suffering and I want to pain.",-0.969076446399502,Fear,0.7151736055500212,High Risk,i cant take this end it all anymore its suffering and i want to pain
+P08745,2025-04-21,I am stressed and heavy lately.,-0.3579613590925271,Disgust,0.5667056628371852,Medium Risk,i am stressed and heavy lately
+P01767,2025-04-21,Very dinner and working.,0.9747353044003264,Happiness,0.1832819221008864,Low Risk,very dinner and working
+P05333,2025-04-21,Everything is depressed and I feel end it all.,-0.5724944954981342,Fear,0.8286787177050752,High Risk,everything is depressed and i feel end it all
+P03836,2025-04-21,Very sunny and friends.,0.9821341741592484,Surprise,0.3578670497256054,Low Risk,very sunny and friends
+P05337,2025-04-21,I am sad and lonely lately.,-0.267605905603404,Anger,0.587813341139715,Medium Risk,i am sad and lonely lately
+P06006,2025-04-21,Very dinner and going out.,0.8758628999636653,Neutral,0.1698854706706878,Low Risk,very dinner and going out
+P00995,2025-04-21,"I can't take this no way out anymore, it's suffering and I want to worthless.",-0.7386199292190652,Sadness,0.9224924355508126,High Risk,i cant take this no way out anymore its suffering and i want to worthless
+P08437,2025-04-21,I am anxious and stressed lately.,-0.0305506068680703,Disgust,0.5976528699896505,Medium Risk,i am anxious and stressed lately
+P01141,2025-04-21,"I can't take this suffering anymore, it's hopeless and I want to hurt myself.",-0.6843123369758746,Sadness,0.9018541400465634,High Risk,i cant take this suffering anymore its hopeless and i want to hurt myself
+P08570,2025-04-22,Everything is give up and I feel hopeless.,-0.6391652371497201,Sadness,0.9539918895317212,High Risk,everything is give up and i feel hopeless
+P04432,2025-04-22,"I can't take this end it all anymore, it's give up and I want to pointless.",-0.5321370754707929,Sadness,0.9315967210764072,High Risk,i cant take this end it all anymore its give up and i want to pointless
+P01756,2025-04-23,I am stressed and sad lately.,0.1533891889164182,Sadness,0.5685844329979718,Medium Risk,i am stressed and sad lately
+P07562,2025-04-23,I am lonely and tired lately.,-0.2876491997844226,Sadness,0.4333077844635067,Medium Risk,i am lonely and tired lately
+P08229,2025-04-23,"I can't take this hopeless anymore, it's suffering and I want to hurt myself.",-0.571628758796371,Sadness,0.9152526857247938,High Risk,i cant take this hopeless anymore its suffering and i want to hurt myself
+P09648,2025-04-24,Very good and going out.,0.3444190625822363,Surprise,0.1956410327018669,Low Risk,very good and going out
+P01558,2025-04-24,I am sad and dark lately.,-0.4600339634644394,Sadness,0.4375753693288624,Medium Risk,i am sad and dark lately
+P03859,2025-04-25,I am heavy and dark lately.,-0.2109329727297588,Fear,0.5398570690466602,Medium Risk,i am heavy and dark lately
+P08738,2025-04-25,"I can't take this pain anymore, it's pointless and I want to depressed.",-0.8519715442842392,Fear,0.8963984885684148,High Risk,i cant take this pain anymore its pointless and i want to depressed
+P06837,2025-04-25,Everything is worthless and I feel hopeless.,-0.9212921577871332,Fear,0.8558767835002771,High Risk,everything is worthless and i feel hopeless
+P08209,2025-04-26,I am anxious and struggling lately.,0.0202763349788154,Sadness,0.5930263195892763,Medium Risk,i am anxious and struggling lately
+P07260,2025-04-26,I am lonely and stressed lately.,-0.0464838785413881,Disgust,0.4829583277345558,Medium Risk,i am lonely and stressed lately
+P03884,2025-04-26,I am anxious and tired lately.,-0.1183349971720979,Anger,0.6232497287444827,Medium Risk,i am anxious and tired lately
+P04189,2025-04-27,Everything is end it all and I feel depressed.,-0.6588472685664695,Fear,0.9795365629153524,High Risk,everything is end it all and i feel depressed
+P07364,2025-04-27,"I can't take this suffering anymore, it's pain and I want to worthless.",-0.701777205246068,Fear,0.8774036147127205,High Risk,i cant take this suffering anymore its pain and i want to worthless
+P02387,2025-04-29,I am sad and stressed lately.,-0.4258590172598585,Fear,0.5390643517776765,Medium Risk,i am sad and stressed lately
+P04517,2025-04-29,Everything is depressed and I feel give up.,-0.8820495666508559,Sadness,0.907922533891146,High Risk,everything is depressed and i feel give up
+P05594,2025-04-29,"I can't take this pain anymore, it's worthless and I want to give up.",-0.8741206006056232,Sadness,0.9951523515007648,High Risk,i cant take this pain anymore its worthless and i want to give up
+P09524,2025-04-30,"I can't take this end it all anymore, it's pointless and I want to no way out.",-0.8602649939802849,Fear,0.740140420450424,High Risk,i cant take this end it all anymore its pointless and i want to no way out
+P05091,2025-04-30,"I can't take this give up anymore, it's pointless and I want to depressed.",-0.8431165118557808,Sadness,0.9337293819379512,High Risk,i cant take this give up anymore its pointless and i want to depressed
+P06812,2025-04-30,I am tired and sad lately.,0.0273381545234383,Disgust,0.6824892758500066,Medium Risk,i am tired and sad lately
+P05657,2025-04-30,I am dark and sad lately.,-0.1836573473161363,Sadness,0.4971172692960725,Medium Risk,i am dark and sad lately
+P04954,2025-04-30,Everything is hurt myself and I feel no way out.,-0.5400616361623796,Sadness,0.7701603230912129,High Risk,everything is hurt myself and i feel no way out
+P06934,2025-05-01,I am overwhelmed and stressed lately.,-0.2881001579487875,Sadness,0.401347974048676,Medium Risk,i am overwhelmed and stressed lately
+P08489,2025-05-02,"I can't take this hurt myself anymore, it's pointless and I want to suffering.",-0.9002386795493854,Fear,0.723973876174777,High Risk,i cant take this hurt myself anymore its pointless and i want to suffering
+P05835,2025-05-02,I am feeling so end it all. I just want to end it all.,-0.5491403306011546,Sadness,0.722427354016534,High Risk,i am feeling so end it all i just want to end it all
+P09914,2025-05-03,Very friends and good.,0.412830898627736,Surprise,0.3067435021280917,Low Risk,very friends and good
+P06752,2025-05-03,Everything is suffering and I feel pointless.,-0.7348821536370544,Sadness,0.7950115571041236,High Risk,everything is suffering and i feel pointless
+P02485,2025-05-03,I am lonely and overwhelmed lately.,0.0578634289026573,Disgust,0.6680603750495311,Medium Risk,i am lonely and overwhelmed lately
+P03085,2025-05-05,Everything is hurt myself and I feel pain.,-0.5035682831982238,Fear,0.9624968485073264,High Risk,everything is hurt myself and i feel pain
+P04912,2025-05-06,"I can't take this give up anymore, it's suffering and I want to hopeless.",-0.6867483463669518,Sadness,0.9882225465186008,High Risk,i cant take this give up anymore its suffering and i want to hopeless
+P06482,2025-05-06,Very good and okay.,0.8564978034265229,Surprise,0.1579212800018664,Low Risk,very good and okay
+P01295,2025-05-07,"I can't take this suffering anymore, it's end it all and I want to no way out.",-0.902732483415758,Sadness,0.9509326577409608,High Risk,i cant take this suffering anymore its end it all and i want to no way out
+P02284,2025-05-07,Very dinner and movie.,0.9184990677703032,Happiness,0.1467992589072883,Low Risk,very dinner and movie
+P09821,2025-05-09,Everything is pointless and I feel no way out.,-0.5304334664926309,Sadness,0.7586306075173804,High Risk,everything is pointless and i feel no way out
+P05716,2025-05-09,"I can't take this give up anymore, it's worthless and I want to end it all.",-0.7701342676848519,Fear,0.8492309960569049,High Risk,i cant take this give up anymore its worthless and i want to end it all
+P00554,2025-05-10,Everything is no way out and I feel worthless.,-0.9713598744611884,Fear,0.8830675448432923,High Risk,everything is no way out and i feel worthless
+P03359,2025-05-11,"I can't take this give up anymore, it's depressed and I want to pain.",-0.6178897580788457,Fear,0.8758716016089683,High Risk,i cant take this give up anymore its depressed and i want to pain
+P04582,2025-05-11,I am dark and struggling lately.,0.016435859176467,Anger,0.5531126219886586,Medium Risk,i am dark and struggling lately
+P01110,2025-05-11,"I can't take this hopeless anymore, it's no way out and I want to worthless.",-0.903375292382916,Fear,0.8012362836892687,High Risk,i cant take this hopeless anymore its no way out and i want to worthless
+P01554,2025-05-11,"I can't take this worthless anymore, it's no way out and I want to pointless.",-0.7865526360883487,Fear,0.935281389792015,High Risk,i cant take this worthless anymore its no way out and i want to pointless
+P08551,2025-05-12,"I can't take this hopeless anymore, it's hurt myself and I want to worthless.",-0.9046891222225916,Sadness,0.816778089199314,High Risk,i cant take this hopeless anymore its hurt myself and i want to worthless
+P02432,2025-05-12,Everything is pointless and I feel hurt myself.,-0.7417267448053688,Fear,0.8852388243739664,High Risk,everything is pointless and i feel hurt myself
+P07030,2025-05-12,Everything is worthless and I feel suffering.,-0.9382785233057296,Sadness,0.7477191521854549,High Risk,everything is worthless and i feel suffering
+P02670,2025-05-13,"I can't take this give up anymore, it's pain and I want to pointless.",-0.613751076951843,Sadness,0.7683529564229501,High Risk,i cant take this give up anymore its pain and i want to pointless
+P02914,2025-05-14,Everything is pain and I feel hopeless.,-0.5314437530392639,Fear,0.8600815303366929,High Risk,everything is pain and i feel hopeless
+P02451,2025-05-14,"I can't take this pointless anymore, it's pain and I want to no way out.",-0.9817398103093132,Fear,0.8963863580546388,High Risk,i cant take this pointless anymore its pain and i want to no way out
+P00488,2025-05-15,I am sad and struggling lately.,0.1831116284370376,Anger,0.4193850039532258,Medium Risk,i am sad and struggling lately
+P05650,2025-05-16,Everything is depressed and I feel no way out.,-0.8297246442804543,Sadness,0.7101190322373157,High Risk,everything is depressed and i feel no way out
+P04927,2025-05-17,"I can't take this give up anymore, it's hurt myself and I want to pain.",-0.6222114023580635,Sadness,0.8974277682819003,High Risk,i cant take this give up anymore its hurt myself and i want to pain
+P08263,2025-05-18,"I can't take this pain anymore, it's end it all and I want to suffering.",-0.5631323485232804,Fear,0.9410541827649695,High Risk,i cant take this pain anymore its end it all and i want to suffering
+P03279,2025-05-19,Everything is hurt myself and I feel pointless.,-0.5040014954925744,Sadness,0.8762123200377426,High Risk,everything is hurt myself and i feel pointless
+P03104,2025-05-19,"I can't take this worthless anymore, it's pain and I want to hopeless.",-0.6870334815756465,Fear,0.9529997064675813,High Risk,i cant take this worthless anymore its pain and i want to hopeless
+P06962,2025-05-20,"I can't take this depressed anymore, it's worthless and I want to end it all.",-0.5305545002673464,Fear,0.8552026640906814,High Risk,i cant take this depressed anymore its worthless and i want to end it all
+P07036,2025-05-20,"I can't take this worthless anymore, it's depressed and I want to give up.",-0.9544663365721144,Fear,0.7141685918996402,High Risk,i cant take this worthless anymore its depressed and i want to give up
+P08697,2025-05-21,"I can't take this depressed anymore, it's give up and I want to pain.",-0.974678069862138,Fear,0.9901263729334342,High Risk,i cant take this depressed anymore its give up and i want to pain
+P06926,2025-05-22,"I can't take this depressed anymore, it's hurt myself and I want to hopeless.",-0.725058220256124,Sadness,0.7684973988761428,High Risk,i cant take this depressed anymore its hurt myself and i want to hopeless
+P07188,2025-05-23,"I can't take this give up anymore, it's pointless and I want to worthless.",-0.8028249135445341,Fear,0.7457083853096195,High Risk,i cant take this give up anymore its pointless and i want to worthless
+P06215,2025-05-23,"I can't take this depressed anymore, it's pain and I want to worthless.",-0.5196605810209707,Sadness,0.763941542607713,High Risk,i cant take this depressed anymore its pain and i want to worthless
+P00261,2025-05-23,"I can't take this end it all anymore, it's hurt myself and I want to give up.",-0.5428505967197506,Sadness,0.9445163285207372,High Risk,i cant take this end it all anymore its hurt myself and i want to give up
+P02570,2025-05-23,Very fun and happy.,0.758908471545565,Surprise,0.0556640043631847,Low Risk,very fun and happy
+P05246,2025-05-24,Very okay and sunny.,0.4970286051467635,Neutral,0.2580338014119319,Low Risk,very okay and sunny
+P06939,2025-05-24,"I can't take this pain anymore, it's give up and I want to hurt myself.",-0.5816268341237705,Fear,0.8149450009033803,High Risk,i cant take this pain anymore its give up and i want to hurt myself
+P09979,2025-05-25,Everything is hurt myself and I feel suffering.,-0.8088377793776242,Sadness,0.7038035131167288,High Risk,everything is hurt myself and i feel suffering
+P03425,2025-05-26,"I can't take this hopeless anymore, it's end it all and I want to depressed.",-0.8003023259782246,Fear,0.7024914523369988,High Risk,i cant take this hopeless anymore its end it all and i want to depressed
+P08821,2025-05-26,I am heavy and stressed lately.,-0.1612722204560511,Fear,0.6922455806288433,Medium Risk,i am heavy and stressed lately
+P06986,2025-05-27,"I can't take this pointless anymore, it's end it all and I want to depressed.",-0.905034166401214,Sadness,0.9864580227806404,High Risk,i cant take this pointless anymore its end it all and i want to depressed
+P03833,2025-05-28,"I can't take this hurt myself anymore, it's end it all and I want to no way out.",-0.6291955830283309,Sadness,0.7155733509007188,High Risk,i cant take this hurt myself anymore its end it all and i want to no way out
+P09348,2025-05-28,"I can't take this give up anymore, it's suffering and I want to no way out.",-0.5570632413437082,Sadness,0.7420118801344039,High Risk,i cant take this give up anymore its suffering and i want to no way out
+P08405,2025-05-29,"I can't take this pointless anymore, it's give up and I want to depressed.",-0.8727227536271406,Sadness,0.781941962681515,High Risk,i cant take this pointless anymore its give up and i want to depressed
+P06959,2025-05-30,"I can't take this no way out anymore, it's hurt myself and I want to worthless.",-0.96395046542491,Fear,0.7337011696132121,High Risk,i cant take this no way out anymore its hurt myself and i want to worthless
+P01075,2025-05-30,Everything is pain and I feel worthless.,-0.8401739723539687,Sadness,0.8120373835398116,High Risk,everything is pain and i feel worthless
+P02243,2025-05-30,Everything is depressed and I feel pointless.,-0.8809573935964412,Fear,0.8347370241790752,High Risk,everything is depressed and i feel pointless
+P09295,2025-05-31,"I can't take this no way out anymore, it's give up and I want to hurt myself.",-0.6465402129603863,Fear,0.9387595914307956,High Risk,i cant take this no way out anymore its give up and i want to hurt myself
+P09869,2025-06-01,Everything is depressed and I feel hopeless.,-0.6702717606828581,Fear,0.9037751093420534,High Risk,everything is depressed and i feel hopeless
+P04643,2025-06-02,Everything is pain and I feel suffering.,-0.53961759293884,Fear,0.8756355090572316,High Risk,everything is pain and i feel suffering
+P03378,2025-06-02,"I can't take this depressed anymore, it's end it all and I want to pointless.",-0.935298499700716,Fear,0.9070619995062406,High Risk,i cant take this depressed anymore its end it all and i want to pointless
+P06447,2025-06-03,Everything is suffering and I feel no way out.,-0.6329189489818094,Fear,0.849907875571292,High Risk,everything is suffering and i feel no way out
+P04725,2025-06-03,Everything is hopeless and I feel end it all.,-0.6680867692887436,Fear,0.8143429945878935,High Risk,everything is hopeless and i feel end it all
+P08160,2025-06-03,"I can't take this pointless anymore, it's no way out and I want to worthless.",-0.5833920663092469,Sadness,0.9220518520710136,High Risk,i cant take this pointless anymore its no way out and i want to worthless
+P07069,2025-06-03,"I can't take this hopeless anymore, it's pain and I want to give up.",-0.8242623942461067,Fear,0.8122942474851035,High Risk,i cant take this hopeless anymore its pain and i want to give up
+P09656,2025-06-03,Everything is suffering and I feel depressed.,-0.6412810566521674,Sadness,0.8735991655293962,High Risk,everything is suffering and i feel depressed
+P05584,2025-06-04,"I can't take this depressed anymore, it's hopeless and I want to no way out.",-0.6089341377710719,Sadness,0.7925167638704982,High Risk,i cant take this depressed anymore its hopeless and i want to no way out
+P09980,2025-06-06,"I can't take this give up anymore, it's no way out and I want to pain.",-0.6942480284101764,Fear,0.9460004624484484,High Risk,i cant take this give up anymore its no way out and i want to pain
+P01811,2025-06-08,Everything is pointless and I feel hopeless.,-0.5726624793078683,Fear,0.953598992706618,High Risk,everything is pointless and i feel hopeless
+P09665,2025-06-10,Everything is give up and I feel hurt myself.,-0.8916492167262509,Sadness,0.9291909390300176,High Risk,everything is give up and i feel hurt myself
+P03429,2025-06-10,Everything is pain and I feel depressed.,-0.948198065215224,Sadness,0.9647189604299092,High Risk,everything is pain and i feel depressed
+P03973,2025-06-11,Everything is hopeless and I feel pointless.,-0.8913767137595598,Fear,0.7547804194246834,High Risk,everything is hopeless and i feel pointless
+P03026,2025-06-11,"I can't take this suffering anymore, it's hurt myself and I want to depressed.",-0.8577296948639719,Fear,0.9194823833105572,High Risk,i cant take this suffering anymore its hurt myself and i want to depressed
+P05539,2025-06-11,"I can't take this suffering anymore, it's depressed and I want to pain.",-0.712309148195029,Sadness,0.8006883870578192,High Risk,i cant take this suffering anymore its depressed and i want to pain
+P02166,2025-06-12,Everything is pain and I feel end it all.,-0.7092875525654565,Sadness,0.7790816319420644,High Risk,everything is pain and i feel end it all
+P05447,2025-06-12,"I can't take this hurt myself anymore, it's pointless and I want to no way out.",-0.8145829577030053,Fear,0.7916173514114813,High Risk,i cant take this hurt myself anymore its pointless and i want to no way out
+P09492,2025-06-13,"I can't take this depressed anymore, it's pointless and I want to end it all.",-0.7070601606369528,Sadness,0.899439783006819,High Risk,i cant take this depressed anymore its pointless and i want to end it all
+P02787,2025-06-15,"I can't take this depressed anymore, it's hopeless and I want to worthless.",-0.9828541608447288,Fear,0.97366888659988,High Risk,i cant take this depressed anymore its hopeless and i want to worthless
+P06165,2025-06-16,Everything is worthless and I feel no way out.,-0.7886960603629467,Fear,0.7835755518541196,High Risk,everything is worthless and i feel no way out
+P08579,2025-06-16,"I can't take this pain anymore, it's suffering and I want to no way out.",-0.9931121070237868,Sadness,0.714601605414587,High Risk,i cant take this pain anymore its suffering and i want to no way out
+P04481,2025-06-17,I am dark and heavy lately.,-0.2361043195526816,Disgust,0.6117797617498191,Medium Risk,i am dark and heavy lately
+P08685,2025-06-19,"I can't take this give up anymore, it's suffering and I want to pain.",-0.537880237506299,Fear,0.7335136846307255,High Risk,i cant take this give up anymore its suffering and i want to pain
+P01553,2025-06-19,"I can't take this no way out anymore, it's give up and I want to suffering.",-0.967880712071437,Sadness,0.8378030966781869,High Risk,i cant take this no way out anymore its give up and i want to suffering
+P03584,2025-06-20,"I can't take this depressed anymore, it's pain and I want to hopeless.",-0.7191638964502212,Fear,0.7502102592179953,High Risk,i cant take this depressed anymore its pain and i want to hopeless
+P01474,2025-06-20,"I can't take this pointless anymore, it's give up and I want to end it all.",-0.6082492487060456,Sadness,0.7335803734404367,High Risk,i cant take this pointless anymore its give up and i want to end it all
+P01010,2025-06-21,"I can't take this hopeless anymore, it's suffering and I want to pain.",-0.8117348561053508,Sadness,0.7456145702273475,High Risk,i cant take this hopeless anymore its suffering and i want to pain
+P03938,2025-06-22,"I can't take this no way out anymore, it's depressed and I want to pain.",-0.7518178137668465,Sadness,0.983466707864486,High Risk,i cant take this no way out anymore its depressed and i want to pain
+P02604,2025-06-22,Everything is give up and I feel suffering.,-0.9653023425297288,Fear,0.8593992378019527,High Risk,everything is give up and i feel suffering
+P06001,2025-06-22,"I can't take this end it all anymore, it's depressed and I want to suffering.",-0.6447569658552179,Sadness,0.9379038174638096,High Risk,i cant take this end it all anymore its depressed and i want to suffering
+P05972,2025-06-22,Everything is no way out and I feel hurt myself.,-0.5839558411595847,Fear,0.8400717315481333,High Risk,everything is no way out and i feel hurt myself
+P02373,2025-06-22,"I can't take this give up anymore, it's end it all and I want to pain.",-0.7214762069038829,Sadness,0.8730901931405113,High Risk,i cant take this give up anymore its end it all and i want to pain
+P08931,2025-06-23,"I can't take this no way out anymore, it's suffering and I want to hopeless.",-0.7866753897144733,Fear,0.97392663142357,High Risk,i cant take this no way out anymore its suffering and i want to hopeless
+P07599,2025-06-24,"I can't take this end it all anymore, it's worthless and I want to depressed.",-0.7573805154848429,Fear,0.7663316828614206,High Risk,i cant take this end it all anymore its worthless and i want to depressed
+P04053,2025-06-24,"I can't take this suffering anymore, it's pointless and I want to end it all.",-0.7687330073108498,Fear,0.99712046037466,High Risk,i cant take this suffering anymore its pointless and i want to end it all
+P01103,2025-06-25,"I can't take this depressed anymore, it's hurt myself and I want to worthless.",-0.9803040831535904,Sadness,0.7029060648222902,High Risk,i cant take this depressed anymore its hurt myself and i want to worthless
+P07229,2025-06-27,"I can't take this pointless anymore, it's pain and I want to hurt myself.",-0.9830633386660884,Fear,0.9522845559414465,High Risk,i cant take this pointless anymore its pain and i want to hurt myself
+P03679,2025-06-30,Everything is suffering and I feel give up.,-0.7838261308309342,Fear,0.9179414630487496,High Risk,everything is suffering and i feel give up
+P07982,2025-06-30,Everything is pointless and I feel pain.,-0.9381816163309932,Fear,0.7240088290515099,High Risk,everything is pointless and i feel pain
+P04555,2025-06-30,"I can't take this pain anymore, it's hurt myself and I want to worthless.",-0.8743129963547931,Sadness,0.9534848420698308,High Risk,i cant take this pain anymore its hurt myself and i want to worthless
+P05836,2025-07-01,"I can't take this pointless anymore, it's give up and I want to no way out.",-0.9217246625360722,Sadness,0.7767104321695706,High Risk,i cant take this pointless anymore its give up and i want to no way out
+P09903,2025-07-02,"I can't take this pointless anymore, it's hopeless and I want to depressed.",-0.7039014166873554,Fear,0.8799114153058477,High Risk,i cant take this pointless anymore its hopeless and i want to depressed
+P01598,2025-07-02,"I can't take this suffering anymore, it's no way out and I want to depressed.",-0.7664910667391291,Sadness,0.99568022018584,High Risk,i cant take this suffering anymore its no way out and i want to depressed
+P00770,2025-07-02,Everything is pointless and I feel give up.,-0.7921789066570472,Fear,0.8588979171836859,High Risk,everything is pointless and i feel give up
+P01284,2025-07-04,Everything is hurt myself and I feel give up.,-0.7000160708694669,Sadness,0.9626465951187688,High Risk,everything is hurt myself and i feel give up
+P08273,2025-07-04,"I can't take this suffering anymore, it's hurt myself and I want to no way out.",-0.5297633184692809,Fear,0.7091309607211926,High Risk,i cant take this suffering anymore its hurt myself and i want to no way out
+P05162,2025-07-05,"I can't take this depressed anymore, it's end it all and I want to pain.",-0.7666770996243122,Sadness,0.7709451957768262,High Risk,i cant take this depressed anymore its end it all and i want to pain
+P08406,2025-07-05,"I can't take this hopeless anymore, it's end it all and I want to suffering.",-0.966781418746985,Fear,0.8447549186931788,High Risk,i cant take this hopeless anymore its end it all and i want to suffering
+P01808,2025-07-05,Everything is hurt myself and I feel depressed.,-0.9576169227868334,Sadness,0.786030063267365,High Risk,everything is hurt myself and i feel depressed
+P01069,2025-07-09,"I can't take this no way out anymore, it's pointless and I want to pain.",-0.789619399117037,Fear,0.7097977182353488,High Risk,i cant take this no way out anymore its pointless and i want to pain
+P05403,2025-07-09,"I can't take this no way out anymore, it's pointless and I want to worthless.",-0.8246295505585947,Sadness,0.7725504984863396,High Risk,i cant take this no way out anymore its pointless and i want to worthless
+P04119,2025-07-10,Everything is end it all and I feel worthless.,-0.7389523815426056,Fear,0.947384721788734,High Risk,everything is end it all and i feel worthless
+P02869,2025-07-11,"I can't take this give up anymore, it's depressed and I want to pointless.",-0.9001358599443817,Sadness,0.7178876573161806,High Risk,i cant take this give up anymore its depressed and i want to pointless
+P09663,2025-07-15,"I can't take this end it all anymore, it's give up and I want to hurt myself.",-0.95211843694368,Fear,0.9128218122521669,High Risk,i cant take this end it all anymore its give up and i want to hurt myself
+P09804,2025-07-16,"I can't take this give up anymore, it's suffering and I want to end it all.",-0.9627646005657322,Sadness,0.8943027457292647,High Risk,i cant take this give up anymore its suffering and i want to end it all
+P03518,2025-07-16,"I can't take this suffering anymore, it's give up and I want to depressed.",-0.5290624749263737,Fear,0.7700737249365599,High Risk,i cant take this suffering anymore its give up and i want to depressed
+P05640,2025-07-16,Everything is worthless and I feel depressed.,-0.5781537982809666,Sadness,0.9964708089564496,High Risk,everything is worthless and i feel depressed
+P09629,2025-07-16,"I can't take this pain anymore, it's hurt myself and I want to depressed.",-0.6464080363437712,Fear,0.938164925264114,High Risk,i cant take this pain anymore its hurt myself and i want to depressed
+P02399,2025-07-16,"I can't take this worthless anymore, it's give up and I want to no way out.",-0.6977555088707703,Sadness,0.8036383454404806,High Risk,i cant take this worthless anymore its give up and i want to no way out
+P05205,2025-07-17,"I can't take this pointless anymore, it's hopeless and I want to give up.",-0.5500759969964493,Sadness,0.8347293176447478,High Risk,i cant take this pointless anymore its hopeless and i want to give up
+P02182,2025-07-20,Everything is pain and I feel no way out.,-0.5436063073067373,Sadness,0.7909658640155773,High Risk,everything is pain and i feel no way out
+P05567,2025-07-20,Everything is worthless and I feel pain.,-0.8609230415819328,Fear,0.9128133790929668,High Risk,everything is worthless and i feel pain
+P06661,2025-07-22,"I can't take this end it all anymore, it's suffering and I want to no way out.",-0.7782454491099428,Fear,0.8815434356335881,High Risk,i cant take this end it all anymore its suffering and i want to no way out
+P05496,2025-07-23,Everything is suffering and I feel end it all.,-0.5533285235979042,Sadness,0.9325999679767638,High Risk,everything is suffering and i feel end it all
+P06308,2025-07-27,"I can't take this depressed anymore, it's end it all and I want to give up.",-0.9600502995240532,Sadness,0.982952215347572,High Risk,i cant take this depressed anymore its end it all and i want to give up
+P01417,2025-07-29,"I can't take this pain anymore, it's suffering and I want to pointless.",-0.7810500564285439,Sadness,0.7752670949602314,High Risk,i cant take this pain anymore its suffering and i want to pointless
+P01675,2025-08-02,"I can't take this end it all anymore, it's give up and I want to depressed.",-0.8686522614990324,Sadness,0.8342508669098524,High Risk,i cant take this end it all anymore its give up and i want to depressed
+P02313,2025-08-05,"I can't take this suffering anymore, it's give up and I want to pain.",-0.9140631487303764,Sadness,0.8484948384137383,High Risk,i cant take this suffering anymore its give up and i want to pain
+P05010,2025-08-05,"I can't take this hopeless anymore, it's pain and I want to depressed.",-0.7585825492991534,Sadness,0.9103201549329633,High Risk,i cant take this hopeless anymore its pain and i want to depressed
+P01304,2025-08-05,"I can't take this worthless anymore, it's end it all and I want to pain.",-0.7278713314923746,Sadness,0.7168486029709938,High Risk,i cant take this worthless anymore its end it all and i want to pain
+P08872,2025-08-06,"I can't take this worthless anymore, it's suffering and I want to end it all.",-0.6982122682292253,Sadness,0.7297230812033881,High Risk,i cant take this worthless anymore its suffering and i want to end it all
+P01158,2025-08-06,"I can't take this suffering anymore, it's pointless and I want to pain.",-0.7255635992287002,Fear,0.8998803584437115,High Risk,i cant take this suffering anymore its pointless and i want to pain
+P00811,2025-08-07,"I can't take this give up anymore, it's worthless and I want to depressed.",-0.6353276029560018,Fear,0.7930253615028264,High Risk,i cant take this give up anymore its worthless and i want to depressed
+P06732,2025-08-08,"I can't take this worthless anymore, it's hopeless and I want to give up.",-0.9228996143953394,Fear,0.7582089844718812,High Risk,i cant take this worthless anymore its hopeless and i want to give up
+P00006,2025-08-08,"I can't take this no way out anymore, it's hurt myself and I want to give up.",-0.5131222405792704,Sadness,0.8368209952651108,High Risk,i cant take this no way out anymore its hurt myself and i want to give up
+P09235,2025-08-09,Everything is end it all and I feel pointless.,-0.7459596128882103,Sadness,0.8779310949511573,High Risk,everything is end it all and i feel pointless
+P07293,2025-08-09,"I can't take this no way out anymore, it's worthless and I want to pointless.",-0.5571363958815218,Fear,0.7661108706545694,High Risk,i cant take this no way out anymore its worthless and i want to pointless
+P04504,2025-08-09,"I can't take this worthless anymore, it's hurt myself and I want to no way out.",-0.5317767885941214,Sadness,0.7692889012901873,High Risk,i cant take this worthless anymore its hurt myself and i want to no way out
+P06827,2025-08-10,Everything is no way out and I feel give up.,-0.8645391943449736,Fear,0.8986881742797916,High Risk,everything is no way out and i feel give up
+P09512,2025-08-11,"I can't take this hurt myself anymore, it's worthless and I want to end it all.",-0.7377476551397105,Sadness,0.8228302806856806,High Risk,i cant take this hurt myself anymore its worthless and i want to end it all
+P08073,2025-08-11,"I can't take this pointless anymore, it's suffering and I want to depressed.",-0.5712208016759084,Sadness,0.7118652188008765,High Risk,i cant take this pointless anymore its suffering and i want to depressed
+P00571,2025-08-12,"I can't take this hopeless anymore, it's give up and I want to depressed.",-0.7708496792356718,Sadness,0.8285891640911427,High Risk,i cant take this hopeless anymore its give up and i want to depressed
+P00851,2025-08-12,"I can't take this suffering anymore, it's depressed and I want to end it all.",-0.9622081930729663,Fear,0.7205002314536813,High Risk,i cant take this suffering anymore its depressed and i want to end it all
+P02124,2025-08-13,Everything is give up and I feel end it all.,-0.7749878802360988,Fear,0.7138785752019999,High Risk,everything is give up and i feel end it all
+P03744,2025-08-13,"I can't take this no way out anymore, it's hopeless and I want to depressed.",-0.6330649563935793,Sadness,0.8973335221714536,High Risk,i cant take this no way out anymore its hopeless and i want to depressed
+P05342,2025-08-13,Everything is no way out and I feel pain.,-0.5123494100500239,Sadness,0.8576784969485121,High Risk,everything is no way out and i feel pain
+P06085,2025-08-14,"I can't take this end it all anymore, it's hopeless and I want to suffering.",-0.7446790757354707,Fear,0.978238384073028,High Risk,i cant take this end it all anymore its hopeless and i want to suffering
+P06803,2025-08-14,"I can't take this hurt myself anymore, it's depressed and I want to pointless.",-0.5521286159006219,Fear,0.9591610442893737,High Risk,i cant take this hurt myself anymore its depressed and i want to pointless
+P00911,2025-08-15,"I can't take this hurt myself anymore, it's hopeless and I want to depressed.",-0.6382781688225441,Fear,0.9257914882215508,High Risk,i cant take this hurt myself anymore its hopeless and i want to depressed
+P00279,2025-08-15,"I can't take this worthless anymore, it's give up and I want to hopeless.",-0.5209146034980348,Sadness,0.9196674659228684,High Risk,i cant take this worthless anymore its give up and i want to hopeless
+P05877,2025-08-18,"I can't take this hopeless anymore, it's pain and I want to suffering.",-0.9610249652845406,Sadness,0.8147542673416892,High Risk,i cant take this hopeless anymore its pain and i want to suffering
+P07342,2025-08-19,"I can't take this worthless anymore, it's suffering and I want to pain.",-0.8024259958831732,Sadness,0.8555385249039421,High Risk,i cant take this worthless anymore its suffering and i want to pain
+P03361,2025-08-20,"I can't take this hurt myself anymore, it's worthless and I want to pointless.",-0.965163567788206,Sadness,0.883644946484017,High Risk,i cant take this hurt myself anymore its worthless and i want to pointless
+P02927,2025-08-20,Everything is pain and I feel pointless.,-0.7015715696077545,Fear,0.8007359750508508,High Risk,everything is pain and i feel pointless
+P07633,2025-08-22,"I can't take this depressed anymore, it's hurt myself and I want to pain.",-0.8486355030140275,Fear,0.9090455516969752,High Risk,i cant take this depressed anymore its hurt myself and i want to pain
+P05909,2025-08-22,"I can't take this depressed anymore, it's suffering and I want to end it all.",-0.7256382558254633,Fear,0.700675894783877,High Risk,i cant take this depressed anymore its suffering and i want to end it all
+P09319,2025-08-23,"I can't take this end it all anymore, it's pointless and I want to depressed.",-0.7401674471867778,Sadness,0.7961280870390935,High Risk,i cant take this end it all anymore its pointless and i want to depressed
+P06008,2025-08-26,"I can't take this pointless anymore, it's pain and I want to worthless.",-0.9208452343080448,Fear,0.7563979958889053,High Risk,i cant take this pointless anymore its pain and i want to worthless
+P01608,2025-08-26,"I can't take this no way out anymore, it's end it all and I want to hurt myself.",-0.710201636293663,Fear,0.7808890026301548,High Risk,i cant take this no way out anymore its end it all and i want to hurt myself
+P00268,2025-08-27,"I can't take this give up anymore, it's hurt myself and I want to suffering.",-0.6145070372322607,Sadness,0.8167886842125929,High Risk,i cant take this give up anymore its hurt myself and i want to suffering
+P02629,2025-08-28,Everything is suffering and I feel hopeless.,-0.6633978769920953,Sadness,0.9613815552850352,High Risk,everything is suffering and i feel hopeless
+P07969,2025-08-29,Everything is suffering and I feel pain.,-0.9887855657811596,Fear,0.7907797121081581,High Risk,everything is suffering and i feel pain
+P05630,2025-08-30,"I can't take this end it all anymore, it's suffering and I want to depressed.",-0.9433871038743912,Sadness,0.7989038721190375,High Risk,i cant take this end it all anymore its suffering and i want to depressed
+P06977,2025-08-31,"I can't take this hopeless anymore, it's end it all and I want to no way out.",-0.6845435367670885,Fear,0.8894634314186631,High Risk,i cant take this hopeless anymore its end it all and i want to no way out
+P04884,2025-09-02,"I can't take this give up anymore, it's no way out and I want to hopeless.",-0.6360488084437036,Sadness,0.9193107274984932,High Risk,i cant take this give up anymore its no way out and i want to hopeless
+P00084,2025-09-04,"I can't take this pain anymore, it's give up and I want to worthless.",-0.7343226842159261,Sadness,0.909853663230158,High Risk,i cant take this pain anymore its give up and i want to worthless
+P07038,2025-09-05,"I can't take this depressed anymore, it's give up and I want to hurt myself.",-0.7312688148654991,Fear,0.9817637479869876,High Risk,i cant take this depressed anymore its give up and i want to hurt myself
+P00859,2025-09-06,"I can't take this suffering anymore, it's no way out and I want to give up.",-0.6862567141078604,Sadness,0.874877817041279,High Risk,i cant take this suffering anymore its no way out and i want to give up
+P03477,2025-09-06,Everything is pain and I feel hurt myself.,-0.9065960509047508,Sadness,0.9116226621920452,High Risk,everything is pain and i feel hurt myself
+P04518,2025-09-07,"I can't take this hopeless anymore, it's pointless and I want to depressed.",-0.837676304998062,Fear,0.7060748139370276,High Risk,i cant take this hopeless anymore its pointless and i want to depressed
+P04704,2025-09-08,"I can't take this pointless anymore, it's no way out and I want to suffering.",-0.6022745209112063,Fear,0.7493197068160927,High Risk,i cant take this pointless anymore its no way out and i want to suffering
+P03003,2025-09-08,Everything is hopeless and I feel give up.,-0.8543637388721315,Fear,0.7902856829234765,High Risk,everything is hopeless and i feel give up
+P00666,2025-09-08,"I can't take this hurt myself anymore, it's suffering and I want to end it all.",-0.8035128873273544,Fear,0.8123658661060363,High Risk,i cant take this hurt myself anymore its suffering and i want to end it all
+P01171,2025-09-08,"I can't take this end it all anymore, it's suffering and I want to hopeless.",-0.9714865429981904,Sadness,0.9926419084942064,High Risk,i cant take this end it all anymore its suffering and i want to hopeless
+P05559,2025-09-09,"I can't take this end it all anymore, it's pointless and I want to worthless.",-0.9320463088536506,Sadness,0.7606427818730156,High Risk,i cant take this end it all anymore its pointless and i want to worthless
+P01815,2025-09-10,"I can't take this give up anymore, it's end it all and I want to depressed.",-0.8202676890730283,Sadness,0.8663861473633434,High Risk,i cant take this give up anymore its end it all and i want to depressed
+P05974,2025-09-11,"I can't take this pain anymore, it's end it all and I want to worthless.",-0.5849634508972114,Sadness,0.7285512843107997,High Risk,i cant take this pain anymore its end it all and i want to worthless
+P08644,2025-09-11,Everything is hopeless and I feel worthless.,-0.8276683626558217,Sadness,0.7626318904993127,High Risk,everything is hopeless and i feel worthless
+P02152,2025-09-11,Everything is worthless and I feel pointless.,-0.6981224280811935,Sadness,0.7400406637846385,High Risk,everything is worthless and i feel pointless
+P08517,2025-09-11,"I can't take this suffering anymore, it's end it all and I want to pointless.",-0.8527038903945656,Sadness,0.7119272627418647,High Risk,i cant take this suffering anymore its end it all and i want to pointless
+P09019,2025-09-13,"I can't take this suffering anymore, it's end it all and I want to pain.",-0.5261396661924537,Sadness,0.8749093319005918,High Risk,i cant take this suffering anymore its end it all and i want to pain
+P04365,2025-09-15,Everything is no way out and I feel end it all.,-0.5306445917914864,Fear,0.7633167667800551,High Risk,everything is no way out and i feel end it all
+P04181,2025-09-17,"I can't take this pain anymore, it's suffering and I want to hopeless.",-0.9056842449420062,Sadness,0.8747802810353498,High Risk,i cant take this pain anymore its suffering and i want to hopeless
+P02208,2025-09-18,"I can't take this hurt myself anymore, it's hopeless and I want to suffering.",-0.7183720780871583,Fear,0.970377762338969,High Risk,i cant take this hurt myself anymore its hopeless and i want to suffering
+P01906,2025-09-19,Everything is pointless and I feel depressed.,-0.8364966157519489,Sadness,0.9206435164999742,High Risk,everything is pointless and i feel depressed
+P05875,2025-09-21,"I can't take this worthless anymore, it's pointless and I want to depressed.",-0.7863741993018517,Sadness,0.8605390600959079,High Risk,i cant take this worthless anymore its pointless and i want to depressed
+P04331,2025-09-22,"I can't take this worthless anymore, it's give up and I want to suffering.",-0.7502272883381422,Fear,0.9826783520975684,High Risk,i cant take this worthless anymore its give up and i want to suffering
+P05618,2025-09-22,Everything is depressed and I feel hurt myself.,-0.5411754599890706,Fear,0.9451882784765964,High Risk,everything is depressed and i feel hurt myself
+P08416,2025-09-22,"I can't take this hopeless anymore, it's depressed and I want to hurt myself.",-0.7010812499359578,Sadness,0.8042616319787558,High Risk,i cant take this hopeless anymore its depressed and i want to hurt myself
+P07402,2025-09-24,"I can't take this pain anymore, it's hurt myself and I want to suffering.",-0.5368217652149613,Sadness,0.9825852710984102,High Risk,i cant take this pain anymore its hurt myself and i want to suffering
+P07987,2025-09-24,"I can't take this pain anymore, it's no way out and I want to depressed.",-0.7211090728935339,Sadness,0.8688940181805845,High Risk,i cant take this pain anymore its no way out and i want to depressed
+P04694,2025-09-24,"I can't take this suffering anymore, it's worthless and I want to hopeless.",-0.5849673139021103,Fear,0.8857265695821404,High Risk,i cant take this suffering anymore its worthless and i want to hopeless
+P00408,2025-09-26,"I can't take this worthless anymore, it's suffering and I want to depressed.",-0.5114129078893414,Sadness,0.9980010812075886,High Risk,i cant take this worthless anymore its suffering and i want to depressed
+P01506,2025-09-26,"I can't take this pain anymore, it's end it all and I want to pointless.",-0.8068561474272273,Sadness,0.924189267267957,High Risk,i cant take this pain anymore its end it all and i want to pointless
+P08943,2025-09-26,"I can't take this give up anymore, it's pointless and I want to suffering.",-0.6708052204137813,Fear,0.8671037559318816,High Risk,i cant take this give up anymore its pointless and i want to suffering
+P07025,2025-09-26,"I can't take this pain anymore, it's hopeless and I want to worthless.",-0.8921758491810606,Fear,0.9058712469882436,High Risk,i cant take this pain anymore its hopeless and i want to worthless
+P09544,2025-09-26,"I can't take this end it all anymore, it's worthless and I want to pain.",-0.6859293387449986,Sadness,0.9599356515178756,High Risk,i cant take this end it all anymore its worthless and i want to pain
+P03336,2025-09-27,Everything is depressed and I feel pain.,-0.5162991848823851,Fear,0.7921975542963249,High Risk,everything is depressed and i feel pain
+P05832,2025-09-30,"I can't take this end it all anymore, it's pointless and I want to give up.",-0.7723500761263282,Sadness,0.8156451400151273,High Risk,i cant take this end it all anymore its pointless and i want to give up
+P09136,2025-10-01,"I can't take this hopeless anymore, it's give up and I want to end it all.",-0.5139264085513265,Sadness,0.7454119934415683,High Risk,i cant take this hopeless anymore its give up and i want to end it all
+P05708,2025-10-03,"I can't take this no way out anymore, it's depressed and I want to suffering.",-0.5467924336797804,Fear,0.90515791750265,High Risk,i cant take this no way out anymore its depressed and i want to suffering
+P00990,2025-10-03,"I can't take this hopeless anymore, it's no way out and I want to suffering.",-0.7702079713931884,Sadness,0.8187123890721377,High Risk,i cant take this hopeless anymore its no way out and i want to suffering
+P09532,2025-10-04,"I can't take this end it all anymore, it's pain and I want to no way out.",-0.6493739679498466,Sadness,0.9033257380819848,High Risk,i cant take this end it all anymore its pain and i want to no way out
+P05479,2025-10-07,"I can't take this end it all anymore, it's worthless and I want to give up.",-0.6161622834813605,Fear,0.9392226178166108,High Risk,i cant take this end it all anymore its worthless and i want to give up
+P01290,2025-10-07,"I can't take this hopeless anymore, it's give up and I want to hurt myself.",-0.6586736974779005,Sadness,0.9255475437870044,High Risk,i cant take this hopeless anymore its give up and i want to hurt myself
+P06164,2025-10-08,"I can't take this no way out anymore, it's give up and I want to depressed.",-0.9370166118476568,Fear,0.9287353887957264,High Risk,i cant take this no way out anymore its give up and i want to depressed
+P06872,2025-10-08,Everything is give up and I feel no way out.,-0.7463027904724402,Fear,0.951369002409614,High Risk,everything is give up and i feel no way out
+P00922,2025-10-09,"I can't take this suffering anymore, it's depressed and I want to give up.",-0.8250275302351802,Fear,0.702509104563057,High Risk,i cant take this suffering anymore its depressed and i want to give up
+P06156,2025-10-09,"I can't take this no way out anymore, it's hurt myself and I want to depressed.",-0.6103866744588724,Fear,0.8455084584818915,High Risk,i cant take this no way out anymore its hurt myself and i want to depressed
+P09094,2025-10-13,"I can't take this hopeless anymore, it's pointless and I want to give up.",-0.6854092727114571,Sadness,0.961295913025174,High Risk,i cant take this hopeless anymore its pointless and i want to give up
+P04230,2025-10-13,"I can't take this pointless anymore, it's depressed and I want to hopeless.",-0.8797772181620453,Fear,0.9504597265999946,High Risk,i cant take this pointless anymore its depressed and i want to hopeless
+P07291,2025-10-15,"I can't take this depressed anymore, it's suffering and I want to hurt myself.",-0.5910634712480367,Sadness,0.9264482315954964,High Risk,i cant take this depressed anymore its suffering and i want to hurt myself
+P09275,2025-10-16,"I can't take this suffering anymore, it's worthless and I want to no way out.",-0.6389105223162885,Sadness,0.9535930189352146,High Risk,i cant take this suffering anymore its worthless and i want to no way out
+P02741,2025-10-16,"I can't take this end it all anymore, it's depressed and I want to pointless.",-0.7197303237916146,Sadness,0.7463479708618114,High Risk,i cant take this end it all anymore its depressed and i want to pointless
+P08291,2025-10-17,"I can't take this give up anymore, it's pointless and I want to pain.",-0.8267088731038227,Fear,0.9466678975769376,High Risk,i cant take this give up anymore its pointless and i want to pain
+P00518,2025-10-21,"I can't take this depressed anymore, it's hopeless and I want to end it all.",-0.8399700837395083,Fear,0.9954009218573524,High Risk,i cant take this depressed anymore its hopeless and i want to end it all
+P05146,2025-10-21,"I can't take this worthless anymore, it's end it all and I want to no way out.",-0.9793666077988884,Fear,0.766319759514165,High Risk,i cant take this worthless anymore its end it all and i want to no way out
+P08131,2025-10-22,"I can't take this worthless anymore, it's hurt myself and I want to hopeless.",-0.5253503565465323,Sadness,0.938649623157998,High Risk,i cant take this worthless anymore its hurt myself and i want to hopeless
+P04233,2025-10-23,"I can't take this pointless anymore, it's pain and I want to suffering.",-0.7273483988171212,Sadness,0.7560503218883748,High Risk,i cant take this pointless anymore its pain and i want to suffering
+P07612,2025-10-23,"I can't take this depressed anymore, it's hopeless and I want to suffering.",-0.6555434911505924,Sadness,0.9867511110925112,High Risk,i cant take this depressed anymore its hopeless and i want to suffering
+P07486,2025-10-24,"I can't take this hurt myself anymore, it's pointless and I want to end it all.",-0.6474579826929454,Fear,0.9259288373902008,High Risk,i cant take this hurt myself anymore its pointless and i want to end it all
+P09991,2025-10-26,"I can't take this hurt myself anymore, it's hopeless and I want to pointless.",-0.8145229044334332,Fear,0.7182638723179154,High Risk,i cant take this hurt myself anymore its hopeless and i want to pointless
+P01814,2025-10-28,"I can't take this pain anymore, it's hopeless and I want to pointless.",-0.5007195967071857,Fear,0.920639058579305,High Risk,i cant take this pain anymore its hopeless and i want to pointless
+P08342,2025-10-28,"I can't take this no way out anymore, it's end it all and I want to give up.",-0.9670670044164288,Fear,0.7909604414152848,High Risk,i cant take this no way out anymore its end it all and i want to give up
+P03546,2025-10-31,"I can't take this depressed anymore, it's give up and I want to worthless.",-0.6716715216885774,Sadness,0.9012947023808556,High Risk,i cant take this depressed anymore its give up and i want to worthless
+P06511,2025-11-04,Everything is end it all and I feel suffering.,-0.6743300295652448,Sadness,0.9777520324894312,High Risk,everything is end it all and i feel suffering
+P08499,2025-11-04,"I can't take this pointless anymore, it's worthless and I want to suffering.",-0.8776730147785967,Fear,0.8602409857408998,High Risk,i cant take this pointless anymore its worthless and i want to suffering
+P07015,2025-11-05,"I can't take this end it all anymore, it's worthless and I want to no way out.",-0.8194814965954796,Fear,0.9887924988840644,High Risk,i cant take this end it all anymore its worthless and i want to no way out
+P03867,2025-11-07,Everything is end it all and I feel hurt myself.,-0.5719348898234771,Sadness,0.9129688326613672,High Risk,everything is end it all and i feel hurt myself
+P06041,2025-11-07,"I can't take this suffering anymore, it's pain and I want to depressed.",-0.580238972138894,Sadness,0.7717600123507992,High Risk,i cant take this suffering anymore its pain and i want to depressed
+P09433,2025-11-10,"I can't take this pain anymore, it's pointless and I want to worthless.",-0.8206897911915949,Fear,0.7261854619976394,High Risk,i cant take this pain anymore its pointless and i want to worthless
+P00093,2025-11-10,"I can't take this worthless anymore, it's hopeless and I want to end it all.",-0.9419636797465418,Sadness,0.728247096480568,High Risk,i cant take this worthless anymore its hopeless and i want to end it all
+P02305,2025-11-13,"I can't take this hopeless anymore, it's depressed and I want to pain.",-0.7448036393256467,Fear,0.8310864583251093,High Risk,i cant take this hopeless anymore its depressed and i want to pain
+P02094,2025-11-14,Everything is worthless and I feel end it all.,-0.9403641639801285,Sadness,0.7445899646733655,High Risk,everything is worthless and i feel end it all
+P08049,2025-11-15,"I can't take this give up anymore, it's hopeless and I want to suffering.",-0.6118240963661592,Fear,0.9747258318044698,High Risk,i cant take this give up anymore its hopeless and i want to suffering
+P01055,2025-11-16,"I can't take this end it all anymore, it's depressed and I want to give up.",-0.7074607788968985,Sadness,0.7201702540271683,High Risk,i cant take this end it all anymore its depressed and i want to give up
+P04781,2025-11-16,"I can't take this hopeless anymore, it's give up and I want to worthless.",-0.7380721964785887,Fear,0.8854601028593675,High Risk,i cant take this hopeless anymore its give up and i want to worthless
+P00760,2025-11-18,"I can't take this no way out anymore, it's hopeless and I want to suffering.",-0.8858823182531504,Fear,0.8809875417144829,High Risk,i cant take this no way out anymore its hopeless and i want to suffering
+P02188,2025-11-19,"I can't take this end it all anymore, it's hurt myself and I want to hopeless.",-0.5803960234802705,Sadness,0.9247473469529596,High Risk,i cant take this end it all anymore its hurt myself and i want to hopeless
+P05796,2025-11-19,"I can't take this worthless anymore, it's no way out and I want to give up.",-0.5596905839191548,Sadness,0.7722729508692154,High Risk,i cant take this worthless anymore its no way out and i want to give up
+P04548,2025-11-20,"I can't take this pain anymore, it's worthless and I want to pointless.",-0.8048554495803331,Sadness,0.961616029413848,High Risk,i cant take this pain anymore its worthless and i want to pointless
+P00459,2025-11-23,Everything is hopeless and I feel depressed.,-0.9411754857632206,Sadness,0.7789337709732528,High Risk,everything is hopeless and i feel depressed
+P04494,2025-11-24,"I can't take this suffering anymore, it's worthless and I want to pain.",-0.6733300377905946,Sadness,0.7652842073346476,High Risk,i cant take this suffering anymore its worthless and i want to pain
+P09273,2025-11-24,"I can't take this depressed anymore, it's suffering and I want to pointless.",-0.8288267930220243,Sadness,0.7469382678466678,High Risk,i cant take this depressed anymore its suffering and i want to pointless
+P02105,2025-11-25,"I can't take this hopeless anymore, it's hurt myself and I want to end it all.",-0.8164151871524887,Fear,0.8866949911745655,High Risk,i cant take this hopeless anymore its hurt myself and i want to end it all
+P03260,2025-11-25,Everything is pointless and I feel end it all.,-0.5130322970059026,Sadness,0.7577589746314418,High Risk,everything is pointless and i feel end it all
+P06991,2025-11-27,"I can't take this end it all anymore, it's give up and I want to pain.",-0.5214891951002786,Sadness,0.91569362415307,High Risk,i cant take this end it all anymore its give up and i want to pain
+P09849,2025-11-27,"I can't take this pain anymore, it's hopeless and I want to depressed.",-0.9235503526416295,Sadness,0.9538022431335328,High Risk,i cant take this pain anymore its hopeless and i want to depressed
+P07662,2025-11-30,"I can't take this end it all anymore, it's no way out and I want to hurt myself.",-0.9228887697355396,Fear,0.8556209307366982,High Risk,i cant take this end it all anymore its no way out and i want to hurt myself
+P01870,2025-12-03,"I can't take this hurt myself anymore, it's give up and I want to suffering.",-0.7251576931717109,Fear,0.9421784947978752,High Risk,i cant take this hurt myself anymore its give up and i want to suffering
+P04743,2025-12-07,"I can't take this give up anymore, it's depressed and I want to hurt myself.",-0.9668244140060096,Sadness,0.8846217032283312,High Risk,i cant take this give up anymore its depressed and i want to hurt myself
+P07490,2025-12-07,"I can't take this give up anymore, it's pain and I want to worthless.",-0.9466411757237704,Sadness,0.9704407685182768,High Risk,i cant take this give up anymore its pain and i want to worthless
+P01221,2025-12-10,"I can't take this give up anymore, it's hurt myself and I want to hopeless.",-0.9509961576096296,Fear,0.9467017334370542,High Risk,i cant take this give up anymore its hurt myself and i want to hopeless
+P07511,2025-12-10,"I can't take this worthless anymore, it's pain and I want to hurt myself.",-0.5142979234165201,Sadness,0.8449674898995115,High Risk,i cant take this worthless anymore its pain and i want to hurt myself
+P00905,2025-12-10,"I can't take this hurt myself anymore, it's worthless and I want to hopeless.",-0.5274429056219956,Fear,0.8816913667970234,High Risk,i cant take this hurt myself anymore its worthless and i want to hopeless
+P01955,2025-12-16,"I can't take this pointless anymore, it's hopeless and I want to hurt myself.",-0.9952900720137774,Sadness,0.7852864867286378,High Risk,i cant take this pointless anymore its hopeless and i want to hurt myself
+P07278,2025-12-17,"I can't take this give up anymore, it's hopeless and I want to pointless.",-0.6342890263192835,Sadness,0.9843085845676188,High Risk,i cant take this give up anymore its hopeless and i want to pointless
+P09009,2025-12-18,"I can't take this end it all anymore, it's worthless and I want to hurt myself.",-0.8315873161771485,Fear,0.9377379977637992,High Risk,i cant take this end it all anymore its worthless and i want to hurt myself
+P00267,2025-12-19,"I can't take this hurt myself anymore, it's pointless and I want to pain.",-0.9168583156219604,Sadness,0.7553112762036889,High Risk,i cant take this hurt myself anymore its pointless and i want to pain
+P05046,2025-12-20,"I can't take this pointless anymore, it's no way out and I want to end it all.",-0.66187659396908,Fear,0.8318984597111772,High Risk,i cant take this pointless anymore its no way out and i want to end it all
+P03671,2025-12-24,"I can't take this worthless anymore, it's depressed and I want to suffering.",-0.8467941663230267,Sadness,0.8513730903678401,High Risk,i cant take this worthless anymore its depressed and i want to suffering
+P08874,2025-12-25,Everything is depressed and I feel worthless.,-0.701866432730811,Fear,0.8640416722625903,High Risk,everything is depressed and i feel worthless
+P01308,2025-12-25,"I can't take this hurt myself anymore, it's end it all and I want to hopeless.",-0.6684268755123957,Fear,0.8590187365155197,High Risk,i cant take this hurt myself anymore its end it all and i want to hopeless
+P01712,2025-12-27,"I can't take this pain anymore, it's no way out and I want to give up.",-0.6283235522149938,Sadness,0.998685717886812,High Risk,i cant take this pain anymore its no way out and i want to give up
+P05260,2025-12-30,"I can't take this pointless anymore, it's worthless and I want to depressed.",-0.7467687076481637,Fear,0.9956214350441894,High Risk,i cant take this pointless anymore its worthless and i want to depressed
+P09509,2025-12-30,"I can't take this no way out anymore, it's pointless and I want to hopeless.",-0.8173813289746223,Fear,0.7617348758148114,High Risk,i cant take this no way out anymore its pointless and i want to hopeless
+P08364,2025-12-31,"I can't take this suffering anymore, it's hopeless and I want to worthless.",-0.6740730159115953,Sadness,0.9707319988412308,High Risk,i cant take this suffering anymore its hopeless and i want to worthless
+P09610,2026-01-01,Everything is no way out and I feel depressed.,-0.6027646766319972,Fear,0.809848903784887,High Risk,everything is no way out and i feel depressed
+P06003,2026-01-01,"I can't take this depressed anymore, it's hopeless and I want to pointless.",-0.7390923384743198,Sadness,0.7582005443245639,High Risk,i cant take this depressed anymore its hopeless and i want to pointless
+P07461,2026-01-03,"I can't take this hurt myself anymore, it's hopeless and I want to give up.",-0.5810499745695061,Sadness,0.7430547124834785,High Risk,i cant take this hurt myself anymore its hopeless and i want to give up
+P08942,2026-01-05,"I can't take this hopeless anymore, it's worthless and I want to pointless.",-0.6917909520410822,Sadness,0.7283079724781918,High Risk,i cant take this hopeless anymore its worthless and i want to pointless
+P04604,2026-01-09,"I can't take this worthless anymore, it's suffering and I want to hopeless.",-0.7744269784431198,Sadness,0.9725338617071204,High Risk,i cant take this worthless anymore its suffering and i want to hopeless
+P04477,2026-01-10,"I can't take this worthless anymore, it's pointless and I want to pain.",-0.9207292322041948,Fear,0.8681464118434306,High Risk,i cant take this worthless anymore its pointless and i want to pain
+P07597,2026-01-11,"I can't take this end it all anymore, it's suffering and I want to give up.",-0.732995545129748,Fear,0.999231551466198,High Risk,i cant take this end it all anymore its suffering and i want to give up
+P03076,2026-01-11,"I can't take this depressed anymore, it's worthless and I want to hopeless.",-0.849596919457283,Fear,0.8597043183863886,High Risk,i cant take this depressed anymore its worthless and i want to hopeless
+P05368,2026-01-12,Everything is hopeless and I feel hurt myself.,-0.7270029322885125,Sadness,0.8483901589059752,High Risk,everything is hopeless and i feel hurt myself
+P03222,2026-01-14,"I can't take this depressed anymore, it's suffering and I want to worthless.",-0.6077792289646355,Fear,0.8585056367653707,High Risk,i cant take this depressed anymore its suffering and i want to worthless
+P08124,2026-01-16,"I can't take this pain anymore, it's hurt myself and I want to hopeless.",-0.8596768042955921,Sadness,0.8329305707487543,High Risk,i cant take this pain anymore its hurt myself and i want to hopeless
+P04754,2026-01-16,"I can't take this depressed anymore, it's hopeless and I want to hurt myself.",-0.823459421299567,Fear,0.8892061564936949,High Risk,i cant take this depressed anymore its hopeless and i want to hurt myself
+P02490,2026-01-16,Everything is no way out and I feel hopeless.,-0.717590418556802,Sadness,0.9625362977147482,High Risk,everything is no way out and i feel hopeless
+P06568,2026-01-18,"I can't take this hopeless anymore, it's pointless and I want to end it all.",-0.7774773583425674,Fear,0.7377131633537414,High Risk,i cant take this hopeless anymore its pointless and i want to end it all
+P06723,2026-01-20,"I can't take this no way out anymore, it's give up and I want to hopeless.",-0.5236266995037308,Sadness,0.9533460232967836,High Risk,i cant take this no way out anymore its give up and i want to hopeless
+P00234,2026-01-21,"I can't take this suffering anymore, it's worthless and I want to pointless.",-0.6682313139916447,Sadness,0.9926623947048268,High Risk,i cant take this suffering anymore its worthless and i want to pointless
+P02008,2026-01-24,"I can't take this suffering anymore, it's depressed and I want to pointless.",-0.7256828474027082,Sadness,0.7734146791071103,High Risk,i cant take this suffering anymore its depressed and i want to pointless
+P07035,2026-01-24,"I can't take this worthless anymore, it's pain and I want to suffering.",-0.8882976876818868,Sadness,0.7916106532676102,High Risk,i cant take this worthless anymore its pain and i want to suffering
+P03009,2026-01-26,"I can't take this pointless anymore, it's give up and I want to suffering.",-0.5376262620678192,Sadness,0.7319342766499324,High Risk,i cant take this pointless anymore its give up and i want to suffering
+P07456,2026-01-26,"I can't take this suffering anymore, it's depressed and I want to hopeless.",-0.5739218958460304,Sadness,0.9690285538768804,High Risk,i cant take this suffering anymore its depressed and i want to hopeless
+P09900,2026-01-27,"I can't take this hurt myself anymore, it's pain and I want to end it all.",-0.6997112360043267,Sadness,0.8900749106151405,High Risk,i cant take this hurt myself anymore its pain and i want to end it all
+P02964,2026-01-29,Everything is give up and I feel worthless.,-0.8773549531781786,Sadness,0.8240419792365905,High Risk,everything is give up and i feel worthless
+P06335,2026-01-30,"I can't take this hurt myself anymore, it's no way out and I want to hopeless.",-0.7635399415691103,Sadness,0.9676474399569444,High Risk,i cant take this hurt myself anymore its no way out and i want to hopeless
+P06366,2026-02-02,"I can't take this give up anymore, it's end it all and I want to hurt myself.",-0.8489606003632516,Sadness,0.8608425783390834,High Risk,i cant take this give up anymore its end it all and i want to hurt myself
+P03900,2026-02-02,"I can't take this no way out anymore, it's end it all and I want to suffering.",-0.96781255824248,Sadness,0.8468347596056618,High Risk,i cant take this no way out anymore its end it all and i want to suffering
+P02986,2026-02-04,"I can't take this hopeless anymore, it's end it all and I want to pointless.",-0.5840559681216353,Fear,0.8353228215474578,High Risk,i cant take this hopeless anymore its end it all and i want to pointless
+P05223,2026-02-06,"I can't take this end it all anymore, it's pain and I want to depressed.",-0.7557321900140539,Sadness,0.7756717657230856,High Risk,i cant take this end it all anymore its pain and i want to depressed
+P05280,2026-02-07,Everything is hurt myself and I feel worthless.,-0.9939509891507738,Fear,0.7192498654333255,High Risk,everything is hurt myself and i feel worthless
+P06491,2026-02-08,"I can't take this hurt myself anymore, it's hopeless and I want to pain.",-0.6940095682348867,Fear,0.9525997496998984,High Risk,i cant take this hurt myself anymore its hopeless and i want to pain
+P04370,2026-02-09,"I can't take this hurt myself anymore, it's pain and I want to suffering.",-0.616246652302318,Sadness,0.8613197712349603,High Risk,i cant take this hurt myself anymore its pain and i want to suffering
+P05065,2026-02-09,"I can't take this pain anymore, it's suffering and I want to end it all.",-0.654989931342359,Sadness,0.9150239148730231,High Risk,i cant take this pain anymore its suffering and i want to end it all
+P06303,2026-02-09,"I can't take this worthless anymore, it's pointless and I want to give up.",-0.5350342005091773,Sadness,0.7954828946030458,High Risk,i cant take this worthless anymore its pointless and i want to give up
+P00803,2026-02-11,"I can't take this pointless anymore, it's suffering and I want to end it all.",-0.965496203693592,Sadness,0.963848971218438,High Risk,i cant take this pointless anymore its suffering and i want to end it all
+P01149,2026-02-13,"I can't take this hurt myself anymore, it's suffering and I want to give up.",-0.8640227203009007,Sadness,0.9772861212383984,High Risk,i cant take this hurt myself anymore its suffering and i want to give up
+P00986,2026-02-16,"I can't take this give up anymore, it's end it all and I want to pointless.",-0.5066354492495757,Fear,0.7248210506854569,High Risk,i cant take this give up anymore its end it all and i want to pointless
+P01038,2026-02-20,"I can't take this pain anymore, it's depressed and I want to end it all.",-0.9186045053968852,Fear,0.7818849984194464,High Risk,i cant take this pain anymore its depressed and i want to end it all
+P07345,2026-02-20,"I can't take this hurt myself anymore, it's worthless and I want to depressed.",-0.7867686396380477,Fear,0.8137746671923247,High Risk,i cant take this hurt myself anymore its worthless and i want to depressed
+P08618,2026-02-21,"I can't take this suffering anymore, it's hurt myself and I want to pointless.",-0.6893840047621052,Sadness,0.8495026087088926,High Risk,i cant take this suffering anymore its hurt myself and i want to pointless
+P00327,2026-02-22,"I can't take this pain anymore, it's no way out and I want to suffering.",-0.5906602897500791,Fear,0.7320941916480875,High Risk,i cant take this pain anymore its no way out and i want to suffering
+P02366,2026-02-22,"I can't take this hurt myself anymore, it's hopeless and I want to worthless.",-0.7019086652988116,Fear,0.9904623783110098,High Risk,i cant take this hurt myself anymore its hopeless and i want to worthless
+P09957,2026-02-23,"I can't take this suffering anymore, it's give up and I want to no way out.",-0.5349719027057457,Sadness,0.8882785700312812,High Risk,i cant take this suffering anymore its give up and i want to no way out
+P05751,2026-02-23,"I can't take this hurt myself anymore, it's pain and I want to no way out.",-0.6998306708154578,Fear,0.9944230961103716,High Risk,i cant take this hurt myself anymore its pain and i want to no way out
+P05444,2026-02-23,"I can't take this worthless anymore, it's no way out and I want to hurt myself.",-0.7269966242332062,Fear,0.8518429748674894,High Risk,i cant take this worthless anymore its no way out and i want to hurt myself
+P02802,2026-02-24,"I can't take this depressed anymore, it's pointless and I want to no way out.",-0.5107527676641046,Fear,0.7063517091206135,High Risk,i cant take this depressed anymore its pointless and i want to no way out
+P08945,2026-02-28,"I can't take this give up anymore, it's depressed and I want to suffering.",-0.8356414152548154,Fear,0.750104025129676,High Risk,i cant take this give up anymore its depressed and i want to suffering
+P08607,2026-03-02,"I can't take this pain anymore, it's no way out and I want to hurt myself.",-0.7307399617683241,Fear,0.7585455905724756,High Risk,i cant take this pain anymore its no way out and i want to hurt myself
+P07561,2026-03-06,"I can't take this hopeless anymore, it's give up and I want to suffering.",-0.6474438693323281,Sadness,0.7825833782806442,High Risk,i cant take this hopeless anymore its give up and i want to suffering
+P07244,2026-03-10,"I can't take this pain anymore, it's depressed and I want to give up.",-0.6124865451831558,Sadness,0.9572692421197376,High Risk,i cant take this pain anymore its depressed and i want to give up
+P02191,2026-03-11,"I can't take this hopeless anymore, it's pain and I want to end it all.",-0.7713847901902278,Sadness,0.8537751709397531,High Risk,i cant take this hopeless anymore its pain and i want to end it all
+P00296,2026-03-14,"I can't take this pain anymore, it's worthless and I want to no way out.",-0.831814768085789,Fear,0.9212746904766674,High Risk,i cant take this pain anymore its worthless and i want to no way out
+P08288,2026-03-16,"I can't take this hurt myself anymore, it's no way out and I want to pain.",-0.8784840938378922,Fear,0.7553100652514627,High Risk,i cant take this hurt myself anymore its no way out and i want to pain
+P02245,2026-03-21,"I can't take this hurt myself anymore, it's depressed and I want to pain.",-0.8343958488357393,Sadness,0.7749876943718487,High Risk,i cant take this hurt myself anymore its depressed and i want to pain
+P08520,2026-03-21,"I can't take this no way out anymore, it's depressed and I want to worthless.",-0.8033443686054668,Sadness,0.8718937513918773,High Risk,i cant take this no way out anymore its depressed and i want to worthless
+P01810,2026-03-24,"I can't take this hopeless anymore, it's no way out and I want to give up.",-0.6085756910066713,Fear,0.709137342421149,High Risk,i cant take this hopeless anymore its no way out and i want to give up
+P04809,2026-03-25,"I can't take this suffering anymore, it's give up and I want to worthless.",-0.6162024408734119,Fear,0.7003437851884768,High Risk,i cant take this suffering anymore its give up and i want to worthless
+P07602,2026-03-25,"I can't take this suffering anymore, it's worthless and I want to depressed.",-0.8610107618079424,Sadness,0.7840660460832111,High Risk,i cant take this suffering anymore its worthless and i want to depressed
